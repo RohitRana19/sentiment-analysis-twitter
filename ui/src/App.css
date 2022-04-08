@@ -1,12 +1,16 @@
 body{
   background-color: #f6f6f6;
 }
+.container{
+  padding:30px;
+  width:75%;
+}
 .dashboard{
   background-color: #003464;
   color:white;
   padding:30px;
   height: 100vh;
-  width:15vw;
+  width:25%;
 }
 .dashboard div{
   padding-left:10px;
@@ -45,4 +49,15 @@ img{
 }
 .hashtag{
   color:rgb(0, 147, 206);
+}
+.search{
+  width:100%;
+  display: flex;
+  flex-shrink:inherit;
+}
+.search input{
+  width:70%;
+}
+.search button{
+  width:40px;
 }
