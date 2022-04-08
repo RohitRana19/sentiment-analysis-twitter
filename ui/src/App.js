@@ -1,11 +1,15 @@
 import './App.css';
-import Card from './Card'
+import Card from './Card';
+import LineGraph from './LineGraph';
+import BarGraph from './BarGraph';
 
 function App() {
   return (
     <div style={{display:'flex',width:'100vw'}}>
       <div className='container'>
         <Card/>
+        <LineGraph/>
+        <BarGraph/>
       </div>
       <div className='dashboard'>
         <div>
