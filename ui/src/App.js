@@ -1,11 +1,15 @@
 import './App.css';
-import Card from './Card'
+import Card from './Card';
+import LineGraph from './LineGraph';
+import BarGraph from './BarGraph';
 
 function App() {
   return (
-    <div style={{display:'flex'}}>
-      <div style={{width:'80vw',padding:'30px'}}>
+    <div style={{display:'flex',width:'100vw'}}>
+      <div className='container'>
         <Card/>
+        <LineGraph/>
+        <BarGraph/>
       </div>
       <div className='dashboard'>
         <div>
@@ -15,12 +19,14 @@ function App() {
         </svg> Home
         </div>
         <hr/>
-        <input id="search" className='input' placeholder='Search'/>
-        <button className='input' style={{marginLeft:'5px'}}>
-          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
-          </svg>
-        </button>
+        <div className="search">
+          <input id="search" className='input' placeholder='Search'/>
+          <button className='input' style={{marginLeft:'5px'}}>
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+            </svg>
+          </button>
+        </div>
       </div>
     </div>
   );
