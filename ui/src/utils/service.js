@@ -11,7 +11,7 @@ const service = {
   },
 
   byTweetId: (tweetId) => {
-    return axios.get(`${base_url}id/user/${tweetId}`);
+    return axios.get(`${base_url}id/tweet/${tweetId}`);
   },
 };
 
