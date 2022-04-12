@@ -1,11 +1,15 @@
 from tweepy import API, OAuth2BearerHandler
 from dotenv import find_dotenv, load_dotenv
+from utils.model import sentiment_analyzer
+import time
 import os
 
 load_dotenv(find_dotenv())
 
 auth = OAuth2BearerHandler(bearer_token=os.getenv("bearer_token"))
 api = API(auth=auth)
+
+# Functions for Structuring Data
 
 
 def response_filter(responses):
@@ -31,7 +35,7 @@ def response_filter(responses):
         "entities": user.entities
     }
 
-    respArr = [{
+    tweetsObj = [{
         "created_at": resp.created_at,
         "id_str": resp.id_str,
         "text": resp.text,
@@ -40,27 +44,50 @@ def response_filter(responses):
         "favorite_count": resp.favorite_count
     } for resp in responses]
 
-    respObj = {"user": userObj, "tweets": respArr}
+    respObj = {"user": userObj, "tweets": tweetsObj}
 
     return respObj
 
 
-def get_by_screen_name(screen_name, count):
-    global api
+def tweet_extracter(respObj):
+    return [tweet["text"] for tweet in respObj["tweets"]]
 
-    responses = api.user_timeline(screen_name=screen_name, count=count)
-    return response_filter(responses)
+
+def response_modifier(respObj, sentiments, influence_score=0):
+    respObj["user"]["influence"] = influence_score
+    tweetObj = []
+    for tweet, sentiment in zip(respObj["tweets"], sentiments):
+        tweet["sentiment"] = int(sentiment)
+        tweetObj.append(tweet)
+    respObj["tweets"] = tweetObj
+    return respObj
+
+
+# Functions for Flask Routes
+
+
+def get_by_screen_name(screen_name, count):
+    response = api.user_timeline(screen_name=screen_name, count=count)
+    time.sleep(1)
+    respObj = response_filter(response)
+    sentiments = sentiment_analyzer(tweet_extracter(respObj))
+    response = response_modifier(respObj, sentiments, 50)
+    return response
 
 
 def get_by_user_id(uid, count):
-    global api
-
-    responses = api.user_timeline(user_id=uid, count=count)
-    return response_filter(responses)
+    response = api.user_timeline(user_id=uid, count=count)
+    time.sleep(1)
+    respObj = response_filter(response)
+    sentiments = sentiment_analyzer(tweet_extracter(respObj))
+    response = response_modifier(respObj, sentiments, 50)
+    return response
 
 
 def get_by_tweet_id(tid):
-    global api
-
     response = api.get_status(id=tid, include_entities=True)
-    return response_filter([response])
+    time.sleep(1)
+    respObj = response_filter([response])
+    sentiments = sentiment_analyzer(tweet_extracter(respObj))
+    response = response_modifier(respObj, sentiments, 50)
+    return response
