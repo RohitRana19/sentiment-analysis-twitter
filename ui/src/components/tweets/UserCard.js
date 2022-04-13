@@ -2,12 +2,14 @@ const UserCard = ({ userData }) => {
   const { profile_image_url, name, screen_name, influence } = userData;
   return (
     <div>
-      <img src={profile_image_url} />
-      <div>
-        <div>{name}</div>
-        <div>@{screen_name}</div>
+      <div style={{display:'flex'}}>
+        <img src={profile_image_url} />
+        <div className='user'>
+          <p>{name}</p>
+          <p>@{screen_name}</p>
+        </div>
       </div>
-      <label>{influence}</label>
+      <b>Influence Score: {influence}</b>
     </div>
   );
 };
