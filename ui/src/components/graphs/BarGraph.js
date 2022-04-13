@@ -1,5 +1,5 @@
 import { Chart } from "react-google-charts";
-import "../styles/App.css";
+import "../../styles/App.css";
 
 function BarGraph() {
   const data = [
