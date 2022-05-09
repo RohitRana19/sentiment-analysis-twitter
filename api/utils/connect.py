@@ -38,7 +38,7 @@ def response_filter(responses):
     tweetsObj = [{
         "created_at": resp.created_at,
         "id_str": resp.id_str,
-        "text": resp.full_text,
+        "text": resp.text,
         "entities": resp.entities,
         "retweet_count": resp.retweet_count,
         "favorite_count": resp.favorite_count
@@ -68,8 +68,7 @@ def response_modifier(respObj, sentiments, influence_score=0):
 
 def get_by_screen_name(screen_name, count):
     response = api.user_timeline(screen_name=screen_name,
-                                 count=count,
-                                 tweet_mode="extended")
+                                 count=count)
     time.sleep(1)
     respObj = response_filter(response)
     sentiments = sentiment_analyzer(tweet_extracter(respObj))
