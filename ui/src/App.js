@@ -2,6 +2,7 @@ import { useState } from "react";
 import service from "./utils/service";
 import "./styles/App.css";
 import TweetSegment from "./components/TweetSegment";
+import logo from "./logo.png";
 
 function App() {
   const [identifier, setIdentifier] = useState("screen_name");
@@ -25,7 +26,7 @@ function App() {
   return (
     <div style={{ display: "flex", width: "100vw" }}>
       <div className="container">
-        {data ? <TweetSegment data={data} /> : null}
+        {data ? <TweetSegment data={data} /> : <img src={logo} className='logobg'/>}
       </div>
       <div className="dashboard">
         <div>
