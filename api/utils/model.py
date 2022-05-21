@@ -1,12 +1,15 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.tag import pos_tag
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import nltk
 import pandas as pd
-import pickle
 import re
+
+# model and feature vector directory
+
+dirpath = "./static/model_data"
 
 # nltk library data download
 
@@ -14,17 +17,13 @@ nltk_dir = "./static/nltk_data"
 
 nltk.data.path = [nltk_dir]
 
-with open("./static/model_data/svcmodel.pkl", "rb") as f:
-    trained_model = pickle.load(f)
+liblist = [
+    "punkt", "wordnet", "sentiwordnet", "omw-1.4",
+    "averaged_perceptron_tagger", "stopwords", "vader_lexicon"
+]
 
-with open("./static/model_data/feature_vector.pkl", "rb") as f:
-    feat_vec = pickle.load(f)
-
-nltk.download('punkt', download_dir=nltk_dir)
-nltk.download('wordnet', download_dir=nltk_dir)
-nltk.download('omw-1.4', download_dir=nltk_dir)
-nltk.download('averaged_perceptron_tagger', download_dir=nltk_dir)
-nltk.download('stopwords', download_dir=nltk_dir)
+for lib in liblist:
+    nltk.download(lib, download_dir=nltk_dir)
 
 # Processiong Pipeline
 
@@ -138,33 +137,6 @@ def list_flattener(sent_list: list) -> list:
     return flat_list
 
 
-# Analysis Functions
-
-
-def save_feature_vector(data_list, dir_path="./static/model_data"):
-    vec = TfidfVectorizer(ngram_range=(1, 2), max_features=500000).fit(
-        pd.Series(data=data_list).astype(str))
-
-    with open(f"{dir_path}/feature_vector.pkl", "wb") as f:
-        pickle.dump(vec, f)
-
-    return True
-
-
-def vectorizer(data_list):
-    global feat_vec
-    data = pd.Series(data=data_list).astype(str)
-    return feat_vec.transform(data)
-
-
-def sentiment_analyzer(data_list):
-    global trained_model
-    transformed_data = vectorizer(data_list)
-    predicted = trained_model.predict(transformed_data)
-    output = predicted.tolist()
-    return output
-
-
 # Model Class
 
 
@@ -172,11 +144,45 @@ class Model:
 
     def __init__(self):
         self.pipeline = Pipeline()
-        self.pipeline.add(sentence_tokenizer).add(word_tokenizer).add(
-            cleaner).add(tagger).add(lemmatizer).add(stopwords_remover)
+        self.pipeline.add(sentence_tokenizer)
+        self.sentiments = ["neg", "neu", "pos"]
+        self.predictions = {}
+        self.predicted = None
+        self.data = None
+
+    def output(self, text):
+        sid = SentimentIntensityAnalyzer()
+        output = sid.polarity_scores(text)["compound"]
+        return output
 
     def predict(self, text):
-        output = self.pipeline.process(text).output()
+        self.data = self.pipeline.process(text).output()
+
+        score_model = pd.read_pickle(f"{dirpath}/score_model.pkl")
+
+        X = pd.Series(self.data).values
+
+        for senti in self.sentiments:
+            # sentiment model
+            model = f"{dirpath}/{senti}_model.pkl"
+            senti_model = pd.read_pickle(model)
+
+            # feature vector
+            vec = f"{dirpath}/{senti}_vec.pkl"
+            senti_vec = pd.read_pickle(vec)
+
+            y_predict = senti_model.predict(senti_vec.transform(X.astype(str)))
+
+            for ind, val in enumerate(y_predict):
+                if val < 0: y_predict[ind] = 0
+
+            self.predictions[senti] = y_predict
+
+        X_predict = pd.DataFrame(self.predictions).values
+
+        self.predicted = score_model.predict(X_predict)
+
+        return self.predicted
 
 
 '''

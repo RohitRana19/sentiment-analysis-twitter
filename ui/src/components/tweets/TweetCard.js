@@ -9,6 +9,7 @@ function TweetCard({ tweetData }) {
     favorite_count,
     entities,
     sentiment,
+    influence
   } = tweetData;
   var date=Date.parse(created_at);
   var hours=new Date(date).getHours();
@@ -21,12 +22,18 @@ function TweetCard({ tweetData }) {
   return (
     <div className="card">
       <div>{text}</div>
-      <label className='greytext'>{String(hours).padStart(2,'0')}:{String(mins).padStart(2,'0')} {months[month]} {day}, {year}</label>
-      <hr/>
-      <div><b>{retweet_count}</b> Retweets 
-      <b> {favorite_count}</b> Likes</div>
-      <hr/>
+      <label className="greytext">
+        {String(hours).padStart(2, "0")}:{String(mins).padStart(2, "0")}{" "}
+        {months[month]} {day}, {year}
+      </label>
+      <hr />
+      <div>
+        <b>{retweet_count}</b> Retweets
+        <b> {favorite_count}</b> Likes
+      </div>
+      <hr />
       <div>Sentiment Score: {sentiment}</div>
+      <div>Influence Score: {influence}</div>
     </div>
   );
 }

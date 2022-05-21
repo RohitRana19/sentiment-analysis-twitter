@@ -1,6 +1,7 @@
 from tweepy import API, OAuth2BearerHandler
 from dotenv import find_dotenv, load_dotenv
-from utils.model import sentiment_analyzer
+from utils.model import Model
+import math
 import time
 import os
 
@@ -8,6 +9,8 @@ load_dotenv(find_dotenv())
 
 auth = OAuth2BearerHandler(bearer_token=os.getenv("bearer_token"))
 api = API(auth=auth)
+
+md = Model()
 
 # Functions for Structuring Data
 
@@ -49,17 +52,29 @@ def response_filter(responses):
     return respObj
 
 
-def tweet_extracter(respObj):
+def tweet_extractor(respObj):
     return [tweet["text"] for tweet in respObj["tweets"]]
 
 
-def response_modifier(respObj, sentiments, influence_score=0):
-    respObj["user"]["influence"] = influence_score
+def tweet_influence(user, tweet, sentiment):
+    followers = user["followers_count"]
+    friends = user["friends_count"]
+    favorite = tweet["favorite_count"]
+    retweet = tweet["retweet_count"]
+    return (sentiment * math.pow(10, 8) * (favorite + retweet)) / (followers + friends)
+
+
+def response_modifier(respObj, sentiments):
     tweetObj = []
+    tifs = []
     for tweet, sentiment in zip(respObj["tweets"], sentiments):
-        tweet["sentiment"] = int(sentiment)
+        tweet["sentiment"] = sentiment
+        temp = tweet_influence(respObj["user"], tweet, abs(sentiment))
+        tweet["influence"] = temp
+        tifs.append(temp)
         tweetObj.append(tweet)
     respObj["tweets"] = tweetObj
+    respObj["user"]["influence"] = sum(tifs)/len(tifs)
     return respObj
 
 
@@ -67,12 +82,11 @@ def response_modifier(respObj, sentiments, influence_score=0):
 
 
 def get_by_screen_name(screen_name, count):
-    response = api.user_timeline(screen_name=screen_name,
-                                 count=count)
+    response = api.user_timeline(screen_name=screen_name, count=count)
     time.sleep(1)
     respObj = response_filter(response)
-    sentiments = sentiment_analyzer(tweet_extracter(respObj))
-    response = response_modifier(respObj, sentiments, 50)
+    sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
+    response = response_modifier(respObj, sentiments)
     return response
 
 
@@ -80,8 +94,8 @@ def get_by_user_id(uid, count):
     response = api.user_timeline(user_id=uid, count=count)
     time.sleep(1)
     respObj = response_filter(response)
-    sentiments = sentiment_analyzer(tweet_extracter(respObj))
-    response = response_modifier(respObj, sentiments, 50)
+    sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
+    response = response_modifier(respObj, sentiments)
     return response
 
 
@@ -89,6 +103,6 @@ def get_by_tweet_id(tid):
     response = api.get_status(id=tid, include_entities=True)
     time.sleep(1)
     respObj = response_filter([response])
-    sentiments = sentiment_analyzer(tweet_extracter(respObj))
-    response = response_modifier(respObj, sentiments, 50)
+    sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
+    response = response_modifier(respObj, sentiments)
     return response
