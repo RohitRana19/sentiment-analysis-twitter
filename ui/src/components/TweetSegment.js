@@ -5,9 +5,11 @@ import BarGraph from "./graphs/BarGraph";
 const TweetSegment = ({ data }) => {
   const { user, tweets } = data;
   var influenceData = [["", "Influence"]];
+  var infpolData = [["", "Influence Polarity"]];
   var sentimentData = [["", "Sentiment"]];
   tweets.map((tweet, index) => {
     influenceData.push(["", tweet.influence]);
+    infpolData.push(["", tweet.influence_polarity]);
     sentimentData.push(["", tweet.sentiment]);
   });
 
@@ -25,6 +27,7 @@ const TweetSegment = ({ data }) => {
         {influenceData ? (
           <BarGraph
             influenceData={influenceData}
+            infpolData={infpolData}
             sentimentData={sentimentData}
           />
         ) : null}
