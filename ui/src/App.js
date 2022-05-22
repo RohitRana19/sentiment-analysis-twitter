@@ -26,7 +26,11 @@ function App() {
   return (
     <div style={{ display: "flex", width: "100vw" }}>
       <div className="container">
-        {data ? <TweetSegment data={data} /> : <img src={logo} className='logobg'/>}
+        {data ? (
+          <TweetSegment data={data} />
+        ) : (
+          <img src={logo} className="logobg" />
+        )}
       </div>
       <div className="dashboard">
         <div>
@@ -95,16 +99,6 @@ function App() {
               onChange={(e) => setIdentifier(e.target.value)}
             />
             <label>User Id</label>
-          </div>
-
-          <div className="input">
-            <input
-              type="radio"
-              name="by_identifier"
-              value="tweet_id"
-              onChange={(e) => setIdentifier(e.target.value)}
-            />
-            <label>Tweet Id</label>
           </div>
         </div>
         <div className="input">

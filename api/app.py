@@ -17,10 +17,5 @@ def by_user_id(uid, count):
     return get_by_user_id(uid, count)
 
 
-@app.route("/id/tweet/<tid>")
-def by_tweet_id(tid):
-    return get_by_tweet_id(tid)
-
-
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", threaded=True)

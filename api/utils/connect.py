@@ -14,6 +14,7 @@ md = Model()
 
 # Functions for Structuring Data
 
+
 def response_tweet_filter(responses):
     tweetsObj = [{
         "created_at": resp.created_at,
@@ -25,6 +26,7 @@ def response_tweet_filter(responses):
     } for resp in responses]
 
     return tweetsObj
+
 
 def response_user_filter(responses):
     user = responses[0].user
@@ -68,12 +70,13 @@ def tweet_influence(user, tweet, sentiment):
     listed = user["listed_count"]
     favorite = tweet["favorite_count"]
     retweet = tweet["retweet_count"]
-    return (sentiment * math.pow(10, 8) * (favorite + retweet)) / (followers + friends + listed)
+    return (sentiment * math.pow(10, 8) *
+            (favorite + retweet)) / (followers + friends + listed)
 
 
 def response_modifier(respObj, sentiments):
     tweetObj = []
-    tifs = {-1: [], 0:[], 1:[]}
+    tifs = {-1: [], 0: [], 1: []}
 
     for tweet, sentiment in zip(respObj["tweets"], sentiments):
         tweet["sentiment"] = sentiment
@@ -97,7 +100,8 @@ def get_by_screen_name(screen_name, count):
     total_responses = []
     while len(total_responses) < count:
         if len(total_responses) >= 20:
-            response = api.user_timeline(screen_name=screen_name, max_id=total_responses[-1]["id_str"])
+            response = api.user_timeline(screen_name=screen_name,
+                                         max_id=total_responses[-1]["id_str"])
         else:
             response = api.user_timeline(screen_name=screen_name)
             user = response_user_filter(response)
@@ -112,21 +116,13 @@ def get_by_user_id(uid, count):
     total_responses = []
     while len(total_responses) < count:
         if len(total_responses) >= 20:
-            response = api.user_timeline(user_id=uid, max_id=total_responses[-1]["id_str"])
+            response = api.user_timeline(user_id=uid,
+                                         max_id=total_responses[-1]["id_str"])
         else:
             response = api.user_timeline(user_id=uid)
             user = response_user_filter(response)
         total_responses += response_tweet_filter(response)[1:]
     respObj = response_filter(user, total_responses)
-    sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
-    response = response_modifier(respObj, sentiments)
-    return response
-
-
-def get_by_tweet_id(tid):
-    response = api.get_status(id=tid, include_entities=True)
-    time.sleep(1)
-    respObj = response_filter([response])
     sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
     response = response_modifier(respObj, sentiments)
     return response
