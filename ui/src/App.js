@@ -7,7 +7,7 @@ import logo from "./logo.png";
 function App() {
   const [identifier, setIdentifier] = useState("screen_name");
   const [query, setQuery] = useState();
-  const [slider, setSlider] = useState(20);
+  const [slider, setSlider] = useState(40);
   const [data, setData] = useState();
 
   const fetchBy = {
@@ -110,9 +110,9 @@ function App() {
         <div className="input">
           <input
             type="range"
-            min={5}
-            max={200}
-            step={5}
+            min={40}
+            max={800}
+            step={20}
             defaultValue={20}
             onChange={(e) => setSlider(e.target.value)}
           />

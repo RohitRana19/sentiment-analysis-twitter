@@ -4,15 +4,15 @@ import BarGraph from "./graphs/BarGraph";
 
 const TweetSegment = ({ data }) => {
   const { user, tweets } = data;
-  var influenceData=[["", "Influence"]];
-  var sentimentData=[["", "Sentiment"]];
-  tweets.map((tweet,index)=>{
+  var influenceData = [["", "Influence"]];
+  var sentimentData = [["", "Sentiment"]];
+  tweets.map((tweet, index) => {
     influenceData.push(["", tweet.influence]);
     sentimentData.push(["", tweet.sentiment]);
-  })
+  });
 
   return (
-    <div style={{display:'flex'}}>
+    <div style={{ display: "flex" }}>
       <div>
         <UserCard userData={user} />
         <div>
@@ -22,7 +22,12 @@ const TweetSegment = ({ data }) => {
         </div>
       </div>
       <div>
-      {influenceData ? <BarGraph influenceData={influenceData} sentimentData={sentimentData} /> : null}
+        {influenceData ? (
+          <BarGraph
+            influenceData={influenceData}
+            sentimentData={sentimentData}
+          />
+        ) : null}
       </div>
     </div>
   );
