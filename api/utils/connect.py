@@ -2,7 +2,7 @@ from tweepy import API, OAuth2BearerHandler
 from dotenv import find_dotenv, load_dotenv
 from utils.model import Model
 import math
-import time
+import json
 import os
 
 load_dotenv(find_dotenv())
@@ -17,7 +17,7 @@ md = Model()
 
 def response_tweet_filter(responses):
     tweetsObj = [{
-        "created_at": resp.created_at,
+        "created_at": str(resp.created_at),
         "id_str": resp.id_str,
         "text": resp.text,
         "entities": resp.entities,
@@ -41,7 +41,7 @@ def response_user_filter(responses):
         "friends_count": user.friends_count,
         "favourites_count": user.favourites_count,
         "listed_count": user.listed_count,
-        "created_at": user.created_at,
+        "created_at": str(user.created_at),
         "verified": user.verified,
         "statuses_count": user.statuses_count,
         "profile_background_image_url_https":
@@ -70,7 +70,7 @@ def tweet_influence(user, tweet, sentiment):
     listed = user["listed_count"]
     favorite = tweet["favorite_count"]
     retweet = tweet["retweet_count"]
-    return (sentiment * math.pow(10, 8) *
+    return (sentiment * math.pow(10, 4) *
             (favorite + retweet)) / (followers + friends + listed)
 
 
@@ -116,17 +116,29 @@ def response_modifier(respObj, sentiments):
 # Functions for Flask Routes
 
 
+def get_from_trial(screen_name, count):
+    with open(f"./static/responses/{screen_name}.json", "r") as fr:
+        respObj = json.load(fr)
+        sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
+        response = response_modifier(respObj, sentiments)
+        return response
+
+
 def get_by_screen_name(screen_name, count):
     total_responses = []
     while len(total_responses) < count:
         if len(total_responses) >= 20:
             response = api.user_timeline(screen_name=screen_name,
-                                         max_id=total_responses[-1]["id_str"])
+                                         max_id=total_responses[-1]["id_str"],
+                                         include_rts=False)
         else:
-            response = api.user_timeline(screen_name=screen_name)
+            response = api.user_timeline(screen_name=screen_name,
+                                         include_rts=False)
             user = response_user_filter(response)
         total_responses += response_tweet_filter(response)[1:]
     respObj = response_filter(user, total_responses)
+    with open(f"./static/responses/{user['screen_name']}.json", "w") as fw:
+        json.dump(respObj, fw)
     sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
     response = response_modifier(respObj, sentiments)
     return response
@@ -137,12 +149,15 @@ def get_by_user_id(uid, count):
     while len(total_responses) < count:
         if len(total_responses) >= 20:
             response = api.user_timeline(user_id=uid,
-                                         max_id=total_responses[-1]["id_str"])
+                                         max_id=total_responses[-1]["id_str"],
+                                         include_rts=False)
         else:
-            response = api.user_timeline(user_id=uid)
+            response = api.user_timeline(user_id=uid, include_rts=False)
             user = response_user_filter(response)
         total_responses += response_tweet_filter(response)[1:]
     respObj = response_filter(user, total_responses)
+    with open(f"./static/responses/{user['screen_name']}.json", "w") as fw:
+        json.dump(respObj, fw)
     sentiments = [md.output(resp) for resp in tweet_extractor(respObj)]
     response = response_modifier(respObj, sentiments)
     return response

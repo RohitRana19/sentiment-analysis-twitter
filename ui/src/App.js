@@ -6,7 +6,7 @@ import LoadScreen from "./components/LoadScreen";
 import logo from "./logo.png";
 
 function App() {
-  const [identifier, setIdentifier] = useState("screen_name");
+  const [identifier, setIdentifier] = useState("trial_run");
   const [query, setQuery] = useState();
   const [slider, setSlider] = useState(40);
   const [data, setData] = useState();
@@ -15,6 +15,7 @@ function App() {
   const fetchBy = {
     screen_name: service.byScreenName,
     user_id: service.byUserId,
+    trial_run: service.trialRun,
   };
 
   const searchTweets = async () => {
@@ -30,7 +31,7 @@ function App() {
   return (
     <div>
       <div className="dashboard">
-        <div onClick={()=>window.location.reload()}>
+        <div onClick={() => window.location.reload()}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="20"
@@ -51,21 +52,28 @@ function App() {
           &nbsp;Home
         </div>
         <div className="input">
-            <input
-              type="radio"
-              name="by_identifier"
-              value="screen_name"
-              defaultChecked="true"
-              onChange={(e) => setIdentifier(e.target.value)}
-            />
-            <label>User Screen Name</label>
-            <input
-              type="radio"
-              name="by_identifier"
-              value="user_id"
-              onChange={(e) => setIdentifier(e.target.value)}
-            />
-            <label>User Id</label>
+          <input
+            type="radio"
+            name="by_identifier"
+            value="trial_run"
+            defaultChecked="true"
+            onChange={(e) => setIdentifier(e.target.value)}
+          />
+          <label>Trial Run</label>
+          <input
+            type="radio"
+            name="by_identifier"
+            value="screen_name"
+            onChange={(e) => setIdentifier(e.target.value)}
+          />
+          <label>User Screen Name</label>
+          <input
+            type="radio"
+            name="by_identifier"
+            value="user_id"
+            onChange={(e) => setIdentifier(e.target.value)}
+          />
+          <label>User Id</label>
         </div>
         <div className="input">
           <input

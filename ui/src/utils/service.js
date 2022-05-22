@@ -9,6 +9,9 @@ const service = {
   byScreenName: (screenName, count) => {
     return axios.get(`${base_url}screen_name/${screenName}/${count}`);
   },
+  trialRun: (screenName, count) => {
+    return axios.get(`${base_url}trial_run/${screenName}/${count}`);
+  }
 };
 
 export default service;

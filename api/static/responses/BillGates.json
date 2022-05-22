@@ -1,0 +1,4169 @@
+{
+  "user": {
+    "id_str": "50393960",
+    "name": "Bill Gates",
+    "screen_name": "BillGates",
+    "location": "Seattle, WA",
+    "description": "Sharing things I'm learning through my foundation work and other interests.",
+    "followers_count": 59123743,
+    "friends_count": 409,
+    "favourites_count": 252,
+    "listed_count": 122231,
+    "created_at": "2009-06-24 18:44:10+00:00",
+    "verified": true,
+    "statuses_count": 3893,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_normal.jpg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/uQ5m0NOmVj",
+            "expanded_url": "https://gatesnot.es/Pandemic-Prevention",
+            "display_url": "gatesnot.es/Pandemic-Preve\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": { "urls": [] }
+    }
+  },
+  "tweets": [
+    {
+      "created_at": "2022-05-20 17:12:20+00:00",
+      "id_str": "1527698754026975237",
+      "text": "I had a great time answering questions on @Reddit yesterday about pandemic prevention, climate change, farmland, my\u2026 https://t.co/DoBI61IMUp",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Reddit",
+            "name": "Reddit",
+            "id": 811377,
+            "id_str": "811377",
+            "indices": [42, 49]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DoBI61IMUp",
+            "expanded_url": "https://twitter.com/i/web/status/1527698754026975237",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 257,
+      "favorite_count": 2116
+    },
+    {
+      "created_at": "2022-05-19 17:10:22+00:00",
+      "id_str": "1527335869299843087",
+      "text": "I\u2019m answering your questions now on @Reddit: https://t.co/QKKfUUTiFt https://t.co/sAYwcyINyT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Reddit",
+            "name": "Reddit",
+            "id": 811377,
+            "id_str": "811377",
+            "indices": [36, 43]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QKKfUUTiFt",
+            "expanded_url": "https://gatesnot.es/3wDdAA9",
+            "display_url": "gatesnot.es/3wDdAA9",
+            "indices": [45, 68]
+          }
+        ],
+        "media": [
+          {
+            "id": 1527334987048968203,
+            "id_str": "1527334987048968203",
+            "indices": [69, 92],
+            "media_url": "http://pbs.twimg.com/media/FTIvFBwUYAsiPKn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FTIvFBwUYAsiPKn.jpg",
+            "url": "https://t.co/sAYwcyINyT",
+            "display_url": "pic.twitter.com/sAYwcyINyT",
+            "expanded_url": "https://twitter.com/BillGates/status/1527335869299843087/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "large": { "w": 1200, "h": 675, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 376,
+      "favorite_count": 3647
+    },
+    {
+      "created_at": "2022-05-19 15:00:13+00:00",
+      "id_str": "1527303116026023936",
+      "text": "Hey, @Reddit, it\u2019s been a while. Ask me anything at 10:30AM Pacific Time.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Reddit",
+            "name": "Reddit",
+            "id": 811377,
+            "id_str": "811377",
+            "indices": [5, 12]
+          }
+        ],
+        "urls": []
+      },
+      "retweet_count": 222,
+      "favorite_count": 3370
+    },
+    {
+      "created_at": "2022-05-19 00:59:08+00:00",
+      "id_str": "1527091451720441857",
+      "text": "This warehouse is cool \u2013 for many reasons. https://t.co/siqvwnzo2D",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1527090953734873088,
+            "id_str": "1527090953734873088",
+            "indices": [43, 66],
+            "media_url": "http://pbs.twimg.com/media/FTFRcc9UEAAjHjI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FTFRcc9UEAAjHjI.jpg",
+            "url": "https://t.co/siqvwnzo2D",
+            "display_url": "pic.twitter.com/siqvwnzo2D",
+            "expanded_url": "https://twitter.com/BillGates/status/1527091451720441857/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 1920, "h": 1080, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 336,
+      "favorite_count": 2420
+    },
+    {
+      "created_at": "2022-05-17 20:47:46+00:00",
+      "id_str": "1526665802350350337",
+      "text": "I hope the spirit of Paul Farmer\u2019s work lives on for generations. https://t.co/hADcViqog2",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1526665101125685249,
+            "id_str": "1526665101125685249",
+            "indices": [66, 89],
+            "media_url": "http://pbs.twimg.com/media/FS_ONMjVEAArDz4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FS_ONMjVEAArDz4.jpg",
+            "url": "https://t.co/hADcViqog2",
+            "display_url": "pic.twitter.com/hADcViqog2",
+            "expanded_url": "https://twitter.com/BillGates/status/1526665802350350337/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 1920, "h": 1080, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 448,
+      "favorite_count": 2429
+    },
+    {
+      "created_at": "2022-05-12 21:06:47+00:00",
+      "id_str": "1524858649356558336",
+      "text": "I have appreciated our conversations over the years and your perspective about the importance of staying prepared. https://t.co/qguHIDYkwT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qguHIDYkwT",
+            "expanded_url": "https://twitter.com/MJGerson/status/1524143732173459459",
+            "display_url": "twitter.com/MJGerson/statu\u2026",
+            "indices": [115, 138]
+          }
+        ]
+      },
+      "retweet_count": 225,
+      "favorite_count": 1815
+    },
+    {
+      "created_at": "2022-05-12 19:38:18+00:00",
+      "id_str": "1524836383382089728",
+      "text": "It was an honor to speak (virtually) at the #GlobalCOVIDSummit today about the urgent action needed to end this pan\u2026 https://t.co/mB51mLCFIw",
+      "entities": {
+        "hashtags": [{ "text": "GlobalCOVIDSummit", "indices": [44, 62] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mB51mLCFIw",
+            "expanded_url": "https://twitter.com/i/web/status/1524836383382089728",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 231,
+      "favorite_count": 1525
+    },
+    {
+      "created_at": "2022-05-11 17:48:07+00:00",
+      "id_str": "1524446267887161344",
+      "text": "Bono, you\u2019re just as amazing a philanthropist as you are a friend. Working and learning together has been one of my\u2026 https://t.co/hKY6SzmWzM",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hKY6SzmWzM",
+            "expanded_url": "https://twitter.com/i/web/status/1524446267887161344",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 249,
+      "favorite_count": 2296
+    },
+    {
+      "created_at": "2022-05-11 17:48:07+00:00",
+      "id_str": "1524446266180063232",
+      "text": "I can't wait to read this. https://t.co/5ErEXhsJ5G",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5ErEXhsJ5G",
+            "expanded_url": "https://twitter.com/U2/status/1524011457217802241",
+            "display_url": "twitter.com/U2/status/1524\u2026",
+            "indices": [27, 50]
+          }
+        ]
+      },
+      "retweet_count": 253,
+      "favorite_count": 2211
+    },
+    {
+      "created_at": "2022-05-10 21:41:54+00:00",
+      "id_str": "1524142712290627584",
+      "text": "We will continue working with partners and do all we can to ensure none of us have to deal with a pandemic again.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 191,
+      "favorite_count": 2199
+    },
+    {
+      "created_at": "2022-05-10 21:41:54+00:00",
+      "id_str": "1524142710994571264",
+      "text": "The Gates Foundation is coming together today for the first time in two years, and I am lucky to be on Teams to see\u2026 https://t.co/IXnjbbdqeH",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IXnjbbdqeH",
+            "expanded_url": "https://twitter.com/i/web/status/1524142710994571264",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 174,
+      "favorite_count": 2316
+    },
+    {
+      "created_at": "2022-05-10 21:41:53+00:00",
+      "id_str": "1524142709853720576",
+      "text": "I'm fortunate to be vaccinated and boosted and have access to testing and great medical care.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 295,
+      "favorite_count": 2543
+    },
+    {
+      "created_at": "2022-05-10 21:41:53+00:00",
+      "id_str": "1524142708628934656",
+      "text": "I've tested positive for COVID. I'm experiencing mild symptoms and am following the experts' advice by isolating until I'm healthy again.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 2448,
+      "favorite_count": 10508
+    },
+    {
+      "created_at": "2022-05-10 19:54:58+00:00",
+      "id_str": "1524115800591724545",
+      "text": "World-changing ideas require bold thinkers and doers to transform them into reality. These new Advisory Group membe\u2026 https://t.co/vEFP3KNfZV",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vEFP3KNfZV",
+            "expanded_url": "https://twitter.com/i/web/status/1524115800591724545",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 151,
+      "favorite_count": 1225
+    },
+    {
+      "created_at": "2022-05-07 16:44:32+00:00",
+      "id_str": "1522980714920128512",
+      "text": "Katalin Kariko (@kkariko) saw the potential of mRNA to save lives when few others did\u2013and she was willing to fight\u2026 https://t.co/dpTXDIvPcP",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kkariko",
+            "name": "Katalin Kariko",
+            "id": 230933792,
+            "id_str": "230933792",
+            "indices": [16, 24]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dpTXDIvPcP",
+            "expanded_url": "https://twitter.com/i/web/status/1522980714920128512",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 332,
+      "favorite_count": 1950
+    },
+    {
+      "created_at": "2022-05-07 04:39:20+00:00",
+      "id_str": "1522798213144621058",
+      "text": "Thank you for having me, @EmmanuelMacron, and for your commitment to tackling some of the world's toughest challeng\u2026 https://t.co/54oLgawuqe",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmmanuelMacron",
+            "name": "Emmanuel Macron",
+            "id": 1976143068,
+            "id_str": "1976143068",
+            "indices": [25, 40]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/54oLgawuqe",
+            "expanded_url": "https://twitter.com/i/web/status/1522798213144621058",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 277,
+      "favorite_count": 2451
+    },
+    {
+      "created_at": "2022-05-06 22:54:13+00:00",
+      "id_str": "1522711362010451968",
+      "text": "John\u2019s leadership at @AfricaCDC has been remarkable \u2013 especially during the last two years. @PEPFAR\u2019s work has save\u2026 https://t.co/0qMtvzUuo6",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AfricaCDC",
+            "name": "Africa CDC",
+            "id": 3149176301,
+            "id_str": "3149176301",
+            "indices": [21, 31]
+          },
+          {
+            "screen_name": "PEPFAR",
+            "name": "PEPFAR",
+            "id": 69091913,
+            "id_str": "69091913",
+            "indices": [92, 99]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0qMtvzUuo6",
+            "expanded_url": "https://twitter.com/i/web/status/1522711362010451968",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 139,
+      "favorite_count": 1104
+    },
+    {
+      "created_at": "2022-05-06 17:04:56+00:00",
+      "id_str": "1522623458869350400",
+      "text": "If we\u2019re going to prevent the next pandemic, the world needs the infectious disease equivalent of firefighters. Als\u2026 https://t.co/mEYUlXpaFO",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mEYUlXpaFO",
+            "expanded_url": "https://twitter.com/i/web/status/1522623458869350400",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 414,
+      "favorite_count": 2594
+    },
+    {
+      "created_at": "2022-05-06 05:43:04+00:00",
+      "id_str": "1522451863152472064",
+      "text": "@ShereenBhan @CNBCTV18Live Thanks for having me!",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ShereenBhan",
+            "name": "Shereen Bhan",
+            "id": 96087281,
+            "id_str": "96087281",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "CNBCTV18Live",
+            "name": "CNBC-TV18",
+            "id": 44839509,
+            "id_str": "44839509",
+            "indices": [13, 26]
+          }
+        ],
+        "urls": []
+      },
+      "retweet_count": 8,
+      "favorite_count": 130
+    },
+    {
+      "created_at": "2022-05-20 17:12:20+00:00",
+      "id_str": "1527698754026975237",
+      "text": "I had a great time answering questions on @Reddit yesterday about pandemic prevention, climate change, farmland, my\u2026 https://t.co/DoBI61IMUp",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Reddit",
+            "name": "Reddit",
+            "id": 811377,
+            "id_str": "811377",
+            "indices": [42, 49]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DoBI61IMUp",
+            "expanded_url": "https://twitter.com/i/web/status/1527698754026975237",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 257,
+      "favorite_count": 2116
+    },
+    {
+      "created_at": "2022-05-19 17:10:22+00:00",
+      "id_str": "1527335869299843087",
+      "text": "I\u2019m answering your questions now on @Reddit: https://t.co/QKKfUUTiFt https://t.co/sAYwcyINyT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Reddit",
+            "name": "Reddit",
+            "id": 811377,
+            "id_str": "811377",
+            "indices": [36, 43]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QKKfUUTiFt",
+            "expanded_url": "https://gatesnot.es/3wDdAA9",
+            "display_url": "gatesnot.es/3wDdAA9",
+            "indices": [45, 68]
+          }
+        ],
+        "media": [
+          {
+            "id": 1527334987048968203,
+            "id_str": "1527334987048968203",
+            "indices": [69, 92],
+            "media_url": "http://pbs.twimg.com/media/FTIvFBwUYAsiPKn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FTIvFBwUYAsiPKn.jpg",
+            "url": "https://t.co/sAYwcyINyT",
+            "display_url": "pic.twitter.com/sAYwcyINyT",
+            "expanded_url": "https://twitter.com/BillGates/status/1527335869299843087/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "small": { "w": 680, "h": 383, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "large": { "w": 1200, "h": 675, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 376,
+      "favorite_count": 3647
+    },
+    {
+      "created_at": "2022-05-19 15:00:13+00:00",
+      "id_str": "1527303116026023936",
+      "text": "Hey, @Reddit, it\u2019s been a while. Ask me anything at 10:30AM Pacific Time.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Reddit",
+            "name": "Reddit",
+            "id": 811377,
+            "id_str": "811377",
+            "indices": [5, 12]
+          }
+        ],
+        "urls": []
+      },
+      "retweet_count": 222,
+      "favorite_count": 3370
+    },
+    {
+      "created_at": "2022-05-19 00:59:08+00:00",
+      "id_str": "1527091451720441857",
+      "text": "This warehouse is cool \u2013 for many reasons. https://t.co/siqvwnzo2D",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1527090953734873088,
+            "id_str": "1527090953734873088",
+            "indices": [43, 66],
+            "media_url": "http://pbs.twimg.com/media/FTFRcc9UEAAjHjI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FTFRcc9UEAAjHjI.jpg",
+            "url": "https://t.co/siqvwnzo2D",
+            "display_url": "pic.twitter.com/siqvwnzo2D",
+            "expanded_url": "https://twitter.com/BillGates/status/1527091451720441857/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 1920, "h": 1080, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 336,
+      "favorite_count": 2420
+    },
+    {
+      "created_at": "2022-05-17 20:47:46+00:00",
+      "id_str": "1526665802350350337",
+      "text": "I hope the spirit of Paul Farmer\u2019s work lives on for generations. https://t.co/hADcViqog2",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1526665101125685249,
+            "id_str": "1526665101125685249",
+            "indices": [66, 89],
+            "media_url": "http://pbs.twimg.com/media/FS_ONMjVEAArDz4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FS_ONMjVEAArDz4.jpg",
+            "url": "https://t.co/hADcViqog2",
+            "display_url": "pic.twitter.com/hADcViqog2",
+            "expanded_url": "https://twitter.com/BillGates/status/1526665802350350337/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 1920, "h": 1080, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 448,
+      "favorite_count": 2429
+    },
+    {
+      "created_at": "2022-05-12 21:06:47+00:00",
+      "id_str": "1524858649356558336",
+      "text": "I have appreciated our conversations over the years and your perspective about the importance of staying prepared. https://t.co/qguHIDYkwT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qguHIDYkwT",
+            "expanded_url": "https://twitter.com/MJGerson/status/1524143732173459459",
+            "display_url": "twitter.com/MJGerson/statu\u2026",
+            "indices": [115, 138]
+          }
+        ]
+      },
+      "retweet_count": 225,
+      "favorite_count": 1815
+    },
+    {
+      "created_at": "2022-05-12 19:38:18+00:00",
+      "id_str": "1524836383382089728",
+      "text": "It was an honor to speak (virtually) at the #GlobalCOVIDSummit today about the urgent action needed to end this pan\u2026 https://t.co/mB51mLCFIw",
+      "entities": {
+        "hashtags": [{ "text": "GlobalCOVIDSummit", "indices": [44, 62] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mB51mLCFIw",
+            "expanded_url": "https://twitter.com/i/web/status/1524836383382089728",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 231,
+      "favorite_count": 1525
+    },
+    {
+      "created_at": "2022-05-11 17:48:07+00:00",
+      "id_str": "1524446267887161344",
+      "text": "Bono, you\u2019re just as amazing a philanthropist as you are a friend. Working and learning together has been one of my\u2026 https://t.co/hKY6SzmWzM",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hKY6SzmWzM",
+            "expanded_url": "https://twitter.com/i/web/status/1524446267887161344",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 249,
+      "favorite_count": 2296
+    },
+    {
+      "created_at": "2022-05-11 17:48:07+00:00",
+      "id_str": "1524446266180063232",
+      "text": "I can't wait to read this. https://t.co/5ErEXhsJ5G",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5ErEXhsJ5G",
+            "expanded_url": "https://twitter.com/U2/status/1524011457217802241",
+            "display_url": "twitter.com/U2/status/1524\u2026",
+            "indices": [27, 50]
+          }
+        ]
+      },
+      "retweet_count": 253,
+      "favorite_count": 2211
+    },
+    {
+      "created_at": "2022-05-10 21:41:54+00:00",
+      "id_str": "1524142712290627584",
+      "text": "We will continue working with partners and do all we can to ensure none of us have to deal with a pandemic again.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 191,
+      "favorite_count": 2199
+    },
+    {
+      "created_at": "2022-05-10 21:41:54+00:00",
+      "id_str": "1524142710994571264",
+      "text": "The Gates Foundation is coming together today for the first time in two years, and I am lucky to be on Teams to see\u2026 https://t.co/IXnjbbdqeH",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IXnjbbdqeH",
+            "expanded_url": "https://twitter.com/i/web/status/1524142710994571264",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 174,
+      "favorite_count": 2316
+    },
+    {
+      "created_at": "2022-05-10 21:41:53+00:00",
+      "id_str": "1524142709853720576",
+      "text": "I'm fortunate to be vaccinated and boosted and have access to testing and great medical care.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 295,
+      "favorite_count": 2543
+    },
+    {
+      "created_at": "2022-05-10 21:41:53+00:00",
+      "id_str": "1524142708628934656",
+      "text": "I've tested positive for COVID. I'm experiencing mild symptoms and am following the experts' advice by isolating until I'm healthy again.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 2448,
+      "favorite_count": 10508
+    },
+    {
+      "created_at": "2022-05-10 19:54:58+00:00",
+      "id_str": "1524115800591724545",
+      "text": "World-changing ideas require bold thinkers and doers to transform them into reality. These new Advisory Group membe\u2026 https://t.co/vEFP3KNfZV",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vEFP3KNfZV",
+            "expanded_url": "https://twitter.com/i/web/status/1524115800591724545",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 151,
+      "favorite_count": 1225
+    },
+    {
+      "created_at": "2022-05-07 16:44:32+00:00",
+      "id_str": "1522980714920128512",
+      "text": "Katalin Kariko (@kkariko) saw the potential of mRNA to save lives when few others did\u2013and she was willing to fight\u2026 https://t.co/dpTXDIvPcP",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kkariko",
+            "name": "Katalin Kariko",
+            "id": 230933792,
+            "id_str": "230933792",
+            "indices": [16, 24]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dpTXDIvPcP",
+            "expanded_url": "https://twitter.com/i/web/status/1522980714920128512",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 332,
+      "favorite_count": 1950
+    },
+    {
+      "created_at": "2022-05-07 04:39:20+00:00",
+      "id_str": "1522798213144621058",
+      "text": "Thank you for having me, @EmmanuelMacron, and for your commitment to tackling some of the world's toughest challeng\u2026 https://t.co/54oLgawuqe",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EmmanuelMacron",
+            "name": "Emmanuel Macron",
+            "id": 1976143068,
+            "id_str": "1976143068",
+            "indices": [25, 40]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/54oLgawuqe",
+            "expanded_url": "https://twitter.com/i/web/status/1522798213144621058",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 277,
+      "favorite_count": 2451
+    },
+    {
+      "created_at": "2022-05-06 22:54:13+00:00",
+      "id_str": "1522711362010451968",
+      "text": "John\u2019s leadership at @AfricaCDC has been remarkable \u2013 especially during the last two years. @PEPFAR\u2019s work has save\u2026 https://t.co/0qMtvzUuo6",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AfricaCDC",
+            "name": "Africa CDC",
+            "id": 3149176301,
+            "id_str": "3149176301",
+            "indices": [21, 31]
+          },
+          {
+            "screen_name": "PEPFAR",
+            "name": "PEPFAR",
+            "id": 69091913,
+            "id_str": "69091913",
+            "indices": [92, 99]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0qMtvzUuo6",
+            "expanded_url": "https://twitter.com/i/web/status/1522711362010451968",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 139,
+      "favorite_count": 1104
+    },
+    {
+      "created_at": "2022-05-06 17:04:56+00:00",
+      "id_str": "1522623458869350400",
+      "text": "If we\u2019re going to prevent the next pandemic, the world needs the infectious disease equivalent of firefighters. Als\u2026 https://t.co/mEYUlXpaFO",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mEYUlXpaFO",
+            "expanded_url": "https://twitter.com/i/web/status/1522623458869350400",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 414,
+      "favorite_count": 2594
+    },
+    {
+      "created_at": "2022-05-06 05:43:04+00:00",
+      "id_str": "1522451863152472064",
+      "text": "@ShereenBhan @CNBCTV18Live Thanks for having me!",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ShereenBhan",
+            "name": "Shereen Bhan",
+            "id": 96087281,
+            "id_str": "96087281",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "CNBCTV18Live",
+            "name": "CNBC-TV18",
+            "id": 44839509,
+            "id_str": "44839509",
+            "indices": [13, 26]
+          }
+        ],
+        "urls": []
+      },
+      "retweet_count": 8,
+      "favorite_count": 130
+    },
+    {
+      "created_at": "2022-05-05 21:39:22+00:00",
+      "id_str": "1522330136774778881",
+      "text": "This is amazing, John and Ann. It\u2019s great to see you supporting the next generation of innovators\u2014the people we\u2019re\u2026 https://t.co/W9aNyV1kqz",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/W9aNyV1kqz",
+            "expanded_url": "https://twitter.com/i/web/status/1522330136774778881",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 143,
+      "favorite_count": 1282
+    },
+    {
+      "created_at": "2022-05-05 01:36:43+00:00",
+      "id_str": "1522027479166185472",
+      "text": "It was an honor to meet front line heroes like Laura. Your heroic work is an inspiration to us all. https://t.co/d0Nc9Bchbu",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/d0Nc9Bchbu",
+            "expanded_url": "https://twitter.com/LauraCarpenter4/status/1521970141306761224",
+            "display_url": "twitter.com/LauraCarpenter\u2026",
+            "indices": [100, 123]
+          }
+        ]
+      },
+      "retweet_count": 74,
+      "favorite_count": 991
+    },
+    {
+      "created_at": "2022-05-05 00:34:24+00:00",
+      "id_str": "1522011796978094080",
+      "text": "I also had a chance to meet up with Gates Foundation Goalkeepers @DanielleAlakija, @abcholmes, @seyiakiwowo,\u2026 https://t.co/EqcnjFiIaq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DanielleAlakija",
+            "name": "Danielle Alakija",
+            "id": 628461972,
+            "id_str": "628461972",
+            "indices": [65, 81]
+          },
+          {
+            "screen_name": "abcholmes",
+            "name": "Alex Holmes",
+            "id": 264973470,
+            "id_str": "264973470",
+            "indices": [83, 93]
+          },
+          {
+            "screen_name": "seyiakiwowo",
+            "name": "Seyi on Sabbatical Akiwowo",
+            "id": 340799682,
+            "id_str": "340799682",
+            "indices": [95, 107]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EqcnjFiIaq",
+            "expanded_url": "https://twitter.com/i/web/status/1522011796978094080",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [110, 133]
+          }
+        ]
+      },
+      "retweet_count": 98,
+      "favorite_count": 1249
+    },
+    {
+      "created_at": "2022-05-05 00:34:24+00:00",
+      "id_str": "1522011795518464000",
+      "text": "What a day! I had a great time in London chatting with @amolrajan, @DrWaheedArian, and Professor Dame Sarah Gilbert\u2026 https://t.co/QxfoX23pT3",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amolrajan",
+            "name": "Amol Rajan",
+            "id": 38162820,
+            "id_str": "38162820",
+            "indices": [55, 65]
+          },
+          {
+            "screen_name": "DrWaheedArian",
+            "name": "Dr Waheed Arian \ud83e\udde1",
+            "id": 891119762847277056,
+            "id_str": "891119762847277056",
+            "indices": [67, 81]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QxfoX23pT3",
+            "expanded_url": "https://twitter.com/i/web/status/1522011795518464000",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 220,
+      "favorite_count": 2432
+    },
+    {
+      "created_at": "2022-05-04 21:44:06+00:00",
+      "id_str": "1521968940817076226",
+      "text": "Thanks, @TrevorNoah for the thoughtful conversation. I always appreciate your smart questions (and smarter jokes) a\u2026 https://t.co/VLpaz1kgLi",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Trevornoah",
+            "name": "Trevor Noah",
+            "id": 46335511,
+            "id_str": "46335511",
+            "indices": [8, 19]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VLpaz1kgLi",
+            "expanded_url": "https://twitter.com/i/web/status/1521968940817076226",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 194,
+      "favorite_count": 2137
+    },
+    {
+      "created_at": "2022-05-04 16:49:26+00:00",
+      "id_str": "1521894781634314241",
+      "text": "If we\u2019re going to make COVID-19 the last pandemic, we need the GERM team: https://t.co/VegAzRnjBE https://t.co/0CaQezG5dV",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VegAzRnjBE",
+            "expanded_url": "https://gatesnot.es/37Xk8A5",
+            "display_url": "gatesnot.es/37Xk8A5",
+            "indices": [74, 97]
+          }
+        ],
+        "media": [
+          {
+            "id": 1521216702574329856,
+            "id_str": "1521216702574329856",
+            "indices": [98, 121],
+            "media_url": "http://pbs.twimg.com/media/FRxzIn1VUAAwNQb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FRxzIn1VUAAwNQb.jpg",
+            "url": "https://t.co/0CaQezG5dV",
+            "display_url": "pic.twitter.com/0CaQezG5dV",
+            "expanded_url": "https://twitter.com/BillGates/status/1521894781634314241/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 1920, "h": 1080, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 341,
+      "favorite_count": 1856
+    },
+    {
+      "created_at": "2022-05-03 17:02:21+00:00",
+      "id_str": "1521535645386125312",
+      "text": "My new book, How to Prevent the Next Pandemic, is available now. Proceeds will be donated to Partners in Health in\u2026 https://t.co/4vfeEyLzxY",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4vfeEyLzxY",
+            "expanded_url": "https://twitter.com/i/web/status/1521535645386125312",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 781,
+      "favorite_count": 4853
+    },
+    {
+      "created_at": "2022-05-03 12:36:25+00:00",
+      "id_str": "1521468720882745344",
+      "text": "I was shocked to wake up to the news this morning. A reversal of Roe v. Wade would set us back 50 years and disprop\u2026 https://t.co/UvOeAwf7S6",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UvOeAwf7S6",
+            "expanded_url": "https://twitter.com/i/web/status/1521468720882745344",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 1425,
+      "favorite_count": 12191
+    },
+    {
+      "created_at": "2022-05-03 02:17:03+00:00",
+      "id_str": "1521312855127076864",
+      "text": "My new book comes out tomorrow \u2013 but @GatesNotes Insiders can get an early sneak peek and download a free chapter n\u2026 https://t.co/knxazVtiIN",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GatesNotes",
+            "name": "GatesNotes",
+            "id": 836336575239761920,
+            "id_str": "836336575239761920",
+            "indices": [37, 48]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/knxazVtiIN",
+            "expanded_url": "https://twitter.com/i/web/status/1521312855127076864",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 306,
+      "favorite_count": 2284
+    },
+    {
+      "created_at": "2022-05-02 21:29:33+00:00",
+      "id_str": "1521240499830476800",
+      "text": "No one wants to live through this again \u2013 and we don\u2019t have to. As @larrybrilliant says: Outbreaks are inevitable,\u2026 https://t.co/p1odO6MhaU",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "larrybrilliant",
+            "name": "Larry Brilliant \ud83d\udc9b\ud83d\udc99",
+            "id": 17297668,
+            "id_str": "17297668",
+            "indices": [67, 82]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/p1odO6MhaU",
+            "expanded_url": "https://twitter.com/i/web/status/1521240499830476800",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 227,
+      "favorite_count": 1501
+    },
+    {
+      "created_at": "2022-05-02 18:26:09+00:00",
+      "id_str": "1521194349245042693",
+      "text": "I\u2019ve been lucky to spend time with, and learn from, many extraordinary teachers over the years, like these incredib\u2026 https://t.co/xm6fxZa3sF",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xm6fxZa3sF",
+            "expanded_url": "https://twitter.com/i/web/status/1521194349245042693",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 142,
+      "favorite_count": 1258
+    },
+    {
+      "created_at": "2022-05-01 17:03:05+00:00",
+      "id_str": "1520811054418202625",
+      "text": "The world can make COVID-19 the last pandemic: https://t.co/b3bHaQ3eLr https://t.co/wnKIfARZzh",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/b3bHaQ3eLr",
+            "expanded_url": "https://gatesnot.es/3y7S8Ew",
+            "display_url": "gatesnot.es/3y7S8Ew",
+            "indices": [47, 70]
+          }
+        ],
+        "media": [
+          {
+            "id": 1520808531309457408,
+            "id_str": "1520808531309457408",
+            "indices": [71, 94],
+            "media_url": "http://pbs.twimg.com/media/FRr_rLpVUAEWOWf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FRr_rLpVUAEWOWf.jpg",
+            "url": "https://t.co/wnKIfARZzh",
+            "display_url": "pic.twitter.com/wnKIfARZzh",
+            "expanded_url": "https://twitter.com/BillGates/status/1520811054418202625/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 1920, "h": 1080, "resize": "fit" },
+              "medium": { "w": 1200, "h": 675, "resize": "fit" },
+              "small": { "w": 680, "h": 383, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 576,
+      "favorite_count": 3206
+    },
+    {
+      "created_at": "2022-04-30 22:56:50+00:00",
+      "id_str": "1520537691267682304",
+      "text": "The world wasn\u2019t ready for COVID, but we can choose to be ready next time. https://t.co/ghjikJDkPf",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ghjikJDkPf",
+            "expanded_url": "https://gatesnot.es/3s1Krvw",
+            "display_url": "gatesnot.es/3s1Krvw",
+            "indices": [75, 98]
+          }
+        ]
+      },
+      "retweet_count": 408,
+      "favorite_count": 3275
+    },
+    {
+      "created_at": "2022-04-30 17:44:49+00:00",
+      "id_str": "1520459168829771776",
+      "text": "I\u2019m excited to chat with one of my favorite thinkers @FareedZakaria next week at @92Y! https://t.co/5tkkpBucjA",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FareedZakaria",
+            "name": "Fareed Zakaria",
+            "id": 41814169,
+            "id_str": "41814169",
+            "indices": [53, 67]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5tkkpBucjA",
+            "expanded_url": "https://b-gat.es/37WakGb",
+            "display_url": "b-gat.es/37WakGb",
+            "indices": [87, 110]
+          }
+        ]
+      },
+      "retweet_count": 155,
+      "favorite_count": 1613
+    },
+    {
+      "created_at": "2022-04-29 20:26:31+00:00",
+      "id_str": "1520137476911763456",
+      "text": "To avoid another COVID-19 \u2013 or worse \u2013 the world needs a full-time, paid team whose entire job is to prevent pandem\u2026 https://t.co/t3t8lrm9Co",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t3t8lrm9Co",
+            "expanded_url": "https://twitter.com/i/web/status/1520137476911763456",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 559,
+      "favorite_count": 2750
+    },
+    {
+      "created_at": "2022-04-29 16:55:20+00:00",
+      "id_str": "1520084330659254274",
+      "text": "I\u2019m looking forward to this chat with @amolrajan at @howtoacademy and @penguinlive. https://t.co/mw5OF9f8Aq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amolrajan",
+            "name": "Amol Rajan",
+            "id": 38162820,
+            "id_str": "38162820",
+            "indices": [38, 48]
+          },
+          {
+            "screen_name": "howtoacademy",
+            "name": "How To Academy",
+            "id": 1583563700,
+            "id_str": "1583563700",
+            "indices": [52, 65]
+          },
+          {
+            "screen_name": "penguinlive",
+            "name": "Penguin Live",
+            "id": 3213804034,
+            "id_str": "3213804034",
+            "indices": [70, 82]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mw5OF9f8Aq",
+            "expanded_url": "https://twitter.com/howtoacademy/status/1518901188049182720",
+            "display_url": "twitter.com/howtoacademy/s\u2026",
+            "indices": [84, 107]
+          }
+        ]
+      },
+      "retweet_count": 111,
+      "favorite_count": 1162
+    },
+    {
+      "created_at": "2022-04-28 16:51:00+00:00",
+      "id_str": "1519720849170862081",
+      "text": "The best way to prevent pneumonia is to vaccinate children against the pathogens that cause it. This is an impressi\u2026 https://t.co/4MkZiimik2",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4MkZiimik2",
+            "expanded_url": "https://twitter.com/i/web/status/1519720849170862081",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 292,
+      "favorite_count": 2332
+    },
+    {
+      "created_at": "2022-04-27 17:10:41+00:00",
+      "id_str": "1519363415982059520",
+      "text": "Giving a TED talk is always a memorable (and nerve-wracking!) experience. Beyond the talk, I also got to listen to\u2026 https://t.co/PsX3fFA2j9",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PsX3fFA2j9",
+            "expanded_url": "https://twitter.com/i/web/status/1519363415982059520",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 293,
+      "favorite_count": 2474
+    },
+    {
+      "created_at": "2022-04-26 18:19:10+00:00",
+      "id_str": "1519018261790085120",
+      "text": "Each day, polio workers around the world cross mountains and deserts to bring vaccines to kids. It\u2019s up to us to ma\u2026 https://t.co/uCJjjQ2y5a",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uCJjjQ2y5a",
+            "expanded_url": "https://twitter.com/i/web/status/1519018261790085120",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 272,
+      "favorite_count": 2102
+    },
+    {
+      "created_at": "2022-04-25 22:05:15+00:00",
+      "id_str": "1518712769196961792",
+      "text": "Building a software company is nothing compared to building a Roman fire bucket. I tried my hand at it for my lates\u2026 https://t.co/Rs2Ld2lmEP",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rs2Ld2lmEP",
+            "expanded_url": "https://twitter.com/i/web/status/1518712769196961792",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 671,
+      "favorite_count": 7159
+    },
+    {
+      "created_at": "2022-04-25 20:26:30+00:00",
+      "id_str": "1518687917526315009",
+      "text": "The Global Fund is one of the kindest things people have ever done for one another. Replenishing it will lower mala\u2026 https://t.co/H21dOjBD8z",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H21dOjBD8z",
+            "expanded_url": "https://twitter.com/i/web/status/1518687917526315009",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 273,
+      "favorite_count": 2011
+    },
+    {
+      "created_at": "2022-04-23 15:36:19+00:00",
+      "id_str": "1517890116898885634",
+      "text": "Happy World Book Day! I try to read every day, whether I have a busy day at the office or am out for a hike. It\u2019s o\u2026 https://t.co/tqgz11M7Uz",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tqgz11M7Uz",
+            "expanded_url": "https://twitter.com/i/web/status/1517890116898885634",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 1092,
+      "favorite_count": 11392
+    },
+    {
+      "created_at": "2022-04-22 17:06:50+00:00",
+      "id_str": "1517550507019046913",
+      "text": "Seven years ago, I gave a TED Talk about how the world wasn\u2019t ready for the next epidemic. A lot has changed since\u2026 https://t.co/TOIZTi2pHx",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TOIZTi2pHx",
+            "expanded_url": "https://twitter.com/i/web/status/1517550507019046913",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 336,
+      "favorite_count": 3042
+    },
+    {
+      "created_at": "2022-04-21 22:58:58+00:00",
+      "id_str": "1517276736097906688",
+      "text": "We can\u2019t reach zero carbon emissions without innovation. In this new series, you\u2019ll meet some people who are on the\u2026 https://t.co/ftPT2XFTrr",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ftPT2XFTrr",
+            "expanded_url": "https://twitter.com/i/web/status/1517276736097906688",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 272,
+      "favorite_count": 1918
+    },
+    {
+      "created_at": "2022-04-21 20:02:00+00:00",
+      "id_str": "1517232203792453632",
+      "text": "Interesting article on how Liberia\u2019s health workers use data to provide crucial insights and stop diseases from spr\u2026 https://t.co/cixM1HrZD3",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cixM1HrZD3",
+            "expanded_url": "https://twitter.com/i/web/status/1517232203792453632",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 179,
+      "favorite_count": 1486
+    },
+    {
+      "created_at": "2022-04-21 16:58:00+00:00",
+      "id_str": "1517185895463473158",
+      "text": "I hope Namzi is feeling better. Her comics are great! https://t.co/P8nKWRy4bY",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/P8nKWRy4bY",
+            "expanded_url": "https://twitter.com/nishanne_jacob/status/1505873370960781314",
+            "display_url": "twitter.com/nishanne_jacob\u2026",
+            "indices": [54, 77]
+          }
+        ]
+      },
+      "retweet_count": 144,
+      "favorite_count": 1304
+    },
+    {
+      "created_at": "2022-04-20 23:17:41+00:00",
+      "id_str": "1516919058024714240",
+      "text": "One of the surprises of the pandemic is how long it took to develop effective treatments\u2014few people thought there w\u2026 https://t.co/yCairt3Gst",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yCairt3Gst",
+            "expanded_url": "https://twitter.com/i/web/status/1516919058024714240",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 254,
+      "favorite_count": 1554
+    },
+    {
+      "created_at": "2022-04-18 16:41:53+00:00",
+      "id_str": "1516094679061700622",
+      "text": "This rocks. https://t.co/ASw6Zsvo2Z",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ASw6Zsvo2Z",
+            "expanded_url": "https://b-gat.es/3xFHTH5",
+            "display_url": "b-gat.es/3xFHTH5",
+            "indices": [12, 35]
+          }
+        ]
+      },
+      "retweet_count": 323,
+      "favorite_count": 2572
+    },
+    {
+      "created_at": "2022-04-15 18:13:54+00:00",
+      "id_str": "1515030671042830339",
+      "text": "One of the best parts of my job is learning from innovators and entrepreneurs taking on some of the world's greates\u2026 https://t.co/sSNvetbTLr",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sSNvetbTLr",
+            "expanded_url": "https://twitter.com/i/web/status/1515030671042830339",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 458,
+      "favorite_count": 3265
+    },
+    {
+      "created_at": "2022-04-14 20:23:21+00:00",
+      "id_str": "1514700859082362880",
+      "text": "Preventing the next pandemic is not cheap, but it'll save lives and money in the long run. The IMF estimates that C\u2026 https://t.co/61Gts3VCEF",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/61Gts3VCEF",
+            "expanded_url": "https://twitter.com/i/web/status/1514700859082362880",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 329,
+      "favorite_count": 1856
+    },
+    {
+      "created_at": "2022-04-13 22:47:23+00:00",
+      "id_str": "1514374717771112448",
+      "text": "This week, I got to do what every nerd dreams of \u2013 talk about ideas and learn from others doing big things. I belie\u2026 https://t.co/jDx01JPlEn",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jDx01JPlEn",
+            "expanded_url": "https://twitter.com/i/web/status/1514374717771112448",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 319,
+      "favorite_count": 3034
+    },
+    {
+      "created_at": "2022-04-12 19:42:24+00:00",
+      "id_str": "1513965778868989953",
+      "text": "By May of 2021, more than 115,000 frontline workers died taking care of COVID patients. At #TED2022, we discussed l\u2026 https://t.co/GRdZN8ZSLS",
+      "entities": {
+        "hashtags": [{ "text": "TED2022", "indices": [91, 99] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GRdZN8ZSLS",
+            "expanded_url": "https://twitter.com/i/web/status/1513965778868989953",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 306,
+      "favorite_count": 2364
+    },
+    {
+      "created_at": "2022-04-12 17:41:56+00:00",
+      "id_str": "1513935462007664641",
+      "text": "I'm excited to take the stage at #TED2022 and share a plan to make COVID-19 the last pandemic. https://t.co/0Xvs6v2vsX",
+      "entities": {
+        "hashtags": [{ "text": "TED2022", "indices": [33, 41] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1513934998075703298,
+            "id_str": "1513934998075703298",
+            "indices": [95, 118],
+            "media_url": "http://pbs.twimg.com/media/FQKT3A1VgAIqWxK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FQKT3A1VgAIqWxK.jpg",
+            "url": "https://t.co/0Xvs6v2vsX",
+            "display_url": "pic.twitter.com/0Xvs6v2vsX",
+            "expanded_url": "https://twitter.com/BillGates/status/1513935462007664641/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": { "w": 150, "h": 150, "resize": "crop" },
+              "large": { "w": 2048, "h": 2047, "resize": "fit" },
+              "medium": { "w": 1200, "h": 1199, "resize": "fit" },
+              "small": { "w": 680, "h": 680, "resize": "fit" }
+            }
+          }
+        ]
+      },
+      "retweet_count": 505,
+      "favorite_count": 4555
+    },
+    {
+      "created_at": "2022-04-10 21:40:11+00:00",
+      "id_str": "1513270642900017154",
+      "text": "I recently had a chance to check out some of the latest devices and experiences in augmented reality. It was a lot\u2026 https://t.co/f2BorK06j7",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/f2BorK06j7",
+            "expanded_url": "https://twitter.com/i/web/status/1513270642900017154",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 545,
+      "favorite_count": 6143
+    },
+    {
+      "created_at": "2022-04-08 14:09:09+00:00",
+      "id_str": "1512432362595897347",
+      "text": "Solving for Zero is an excellent overview of the complex challenge of climate change and an inspiring look at some\u2026 https://t.co/xymRznonox",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xymRznonox",
+            "expanded_url": "https://twitter.com/i/web/status/1512432362595897347",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 1945,
+      "favorite_count": 10717
+    },
+    {
+      "created_at": "2022-04-07 21:27:41+00:00",
+      "id_str": "1512180336528031745",
+      "text": "The latest #ClimateReport is an important reminder of the work ahead. I\u2019m especially encouraged by the focus on the\u2026 https://t.co/mWzwYEHoB7",
+      "entities": {
+        "hashtags": [{ "text": "ClimateReport", "indices": [11, 25] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mWzwYEHoB7",
+            "expanded_url": "https://twitter.com/i/web/status/1512180336528031745",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 227,
+      "favorite_count": 1748
+    },
+    {
+      "created_at": "2022-04-04 15:58:28+00:00",
+      "id_str": "1511010320000577540",
+      "text": "No one was a better or more tireless advocate for improving global health than Paul. https://t.co/TV6KVUOLx7",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TV6KVUOLx7",
+            "expanded_url": "https://twitter.com/hholdenthorp/status/1510229305984536580",
+            "display_url": "twitter.com/hholdenthorp/s\u2026",
+            "indices": [85, 108]
+          }
+        ]
+      },
+      "retweet_count": 136,
+      "favorite_count": 1354
+    },
+    {
+      "created_at": "2022-04-03 18:03:24+00:00",
+      "id_str": "1510679375552782339",
+      "text": "Bed nets might be simple tools, but they\u2019re one of the best weapons against malaria. https://t.co/mZuC4uQyJR",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mZuC4uQyJR",
+            "expanded_url": "https://b-gat.es/3qW7mbi",
+            "display_url": "b-gat.es/3qW7mbi",
+            "indices": [85, 108]
+          }
+        ]
+      },
+      "retweet_count": 292,
+      "favorite_count": 2567
+    },
+    {
+      "created_at": "2022-04-01 20:33:33+00:00",
+      "id_str": "1509992384771211268",
+      "text": "There\u2019s a lot to learn from poop: https://t.co/5BhkSraHgQ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5BhkSraHgQ",
+            "expanded_url": "https://b-gat.es/3uQv1ej",
+            "display_url": "b-gat.es/3uQv1ej",
+            "indices": [34, 57]
+          }
+        ]
+      },
+      "retweet_count": 214,
+      "favorite_count": 1705
+    },
+    {
+      "created_at": "2022-04-01 17:55:36+00:00",
+      "id_str": "1509952634114899970",
+      "text": "Bono is humanity\u2019s rock star and I\u2019m fortunate to call him my friend. Congratulations on this well-deserved recogni\u2026 https://t.co/Nanmdkwfkn",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Nanmdkwfkn",
+            "expanded_url": "https://twitter.com/i/web/status/1509952634114899970",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 144,
+      "favorite_count": 1388
+    },
+    {
+      "created_at": "2022-04-01 03:25:17+00:00",
+      "id_str": "1509733614572896256",
+      "text": "Wild polio virus returning to Malawi reminds us that strong health systems are critical for ending disease, stoppin\u2026 https://t.co/4nWtGO4Ahp",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4nWtGO4Ahp",
+            "expanded_url": "https://twitter.com/i/web/status/1509733614572896256",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 287,
+      "favorite_count": 1998
+    },
+    {
+      "created_at": "2022-03-31 16:23:53+00:00",
+      "id_str": "1509567167733194762",
+      "text": "Young people are right \u2013 it\u2019s not too late to avoid a climate disaster: https://t.co/AsniMSbEv6",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AsniMSbEv6",
+            "expanded_url": "https://b-gat.es/36ECDbG",
+            "display_url": "b-gat.es/36ECDbG",
+            "indices": [72, 95]
+          }
+        ]
+      },
+      "retweet_count": 253,
+      "favorite_count": 1970
+    },
+    {
+      "created_at": "2022-03-30 17:43:48+00:00",
+      "id_str": "1509224891903479809",
+      "text": "What a lovely bake, Ruby. You deserve a Paul Hollywood handshake for that one! https://t.co/XwRzaQwkNC",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XwRzaQwkNC",
+            "expanded_url": "https://twitter.com/BritishBakeOff/status/1508897376127361037",
+            "display_url": "twitter.com/BritishBakeOff\u2026",
+            "indices": [79, 102]
+          }
+        ]
+      },
+      "retweet_count": 151,
+      "favorite_count": 1886
+    },
+    {
+      "created_at": "2022-03-30 16:09:35+00:00",
+      "id_str": "1509201178432720900",
+      "text": "I have enough nostalgia to go around. John Roach was a true pioneer of the industry, and I\u2019m grateful to have known\u2026 https://t.co/TkQeHnv8uL",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TkQeHnv8uL",
+            "expanded_url": "https://twitter.com/i/web/status/1509201178432720900",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 118,
+      "favorite_count": 1293
+    },
+    {
+      "created_at": "2022-03-29 22:46:36+00:00",
+      "id_str": "1508938703636361216",
+      "text": "Changing mindsets is never easy, but Sudha Varghese empowers girls to believe in themselves and see their potential\u2026 https://t.co/IHyGMIhqrH",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IHyGMIhqrH",
+            "expanded_url": "https://twitter.com/i/web/status/1508938703636361216",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 325,
+      "favorite_count": 2063
+    },
+    {
+      "created_at": "2022-03-25 18:39:47+00:00",
+      "id_str": "1507427038184894465",
+      "text": "In February 2020, we had a degree of optimism that the world was better prepared to respond to COVID-19. Two years\u2026 https://t.co/IeGAfwixrR",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IeGAfwixrR",
+            "expanded_url": "https://twitter.com/i/web/status/1507427038184894465",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 293,
+      "favorite_count": 1841
+    },
+    {
+      "created_at": "2022-03-24 18:35:15+00:00",
+      "id_str": "1507063511536455691",
+      "text": "A world without tuberculosis is attainable if we deliver effective diagnostics &amp; treatment to all who need it. Full\u2026 https://t.co/K6Rg4jWsNX",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/K6Rg4jWsNX",
+            "expanded_url": "https://twitter.com/i/web/status/1507063511536455691",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [121, 144]
+          }
+        ]
+      },
+      "retweet_count": 263,
+      "favorite_count": 1729
+    },
+    {
+      "created_at": "2022-03-24 01:47:07+00:00",
+      "id_str": "1506809803930099712",
+      "text": "Madeleine Albright made history in so many ways during her lifetime, including as the first female Secretary of Sta\u2026 https://t.co/rl7L39t1vm",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rl7L39t1vm",
+            "expanded_url": "https://twitter.com/i/web/status/1506809803930099712",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 247,
+      "favorite_count": 2385
+    },
+    {
+      "created_at": "2022-03-23 16:55:20+00:00",
+      "id_str": "1506675977509752832",
+      "text": "Every day I\u2019m reminded of how my dad\u2019s wisdom, generosity, and compassion lives on in the many people he influenced\u2026 https://t.co/6eYQZnfcE5",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6eYQZnfcE5",
+            "expanded_url": "https://twitter.com/i/web/status/1506675977509752832",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 227,
+      "favorite_count": 1862
+    },
+    {
+      "created_at": "2022-03-22 20:33:21+00:00",
+      "id_str": "1506368456588816384",
+      "text": "Sudha Varghese runs a school in Bihar, India that teaches students how to stand up for themselves and see their own\u2026 https://t.co/ewfNmsHqUv",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ewfNmsHqUv",
+            "expanded_url": "https://twitter.com/i/web/status/1506368456588816384",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 227,
+      "favorite_count": 1943
+    },
+    {
+      "created_at": "2022-03-22 17:55:41+00:00",
+      "id_str": "1506328776149327878",
+      "text": "Shumaila Rehamani is a polio vaccinator in Pakistan. She talks with families and community leaders to answer all th\u2026 https://t.co/NJWbC1neuY",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NJWbC1neuY",
+            "expanded_url": "https://twitter.com/i/web/status/1506328776149327878",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 153,
+      "favorite_count": 1670
+    },
+    {
+      "created_at": "2022-03-22 17:55:39+00:00",
+      "id_str": "1506328770126368769",
+      "text": "Mamello Makhele is a nurse-midwife working to improve health care for women in rural Lesotho, where there are high\u2026 https://t.co/X3s6Z9eyla",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X3s6Z9eyla",
+            "expanded_url": "https://twitter.com/i/web/status/1506328770126368769",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 71,
+      "favorite_count": 746
+    },
+    {
+      "created_at": "2022-03-22 17:55:33+00:00",
+      "id_str": "1506328745652617218",
+      "text": "Brooke Brown, the 2021 Washington State Teacher of the Year, helps high school seniors explore their identity. She\u2026 https://t.co/HoqLU7qYvl",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HoqLU7qYvl",
+            "expanded_url": "https://twitter.com/i/web/status/1506328745652617218",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 31,
+      "favorite_count": 468
+    },
+    {
+      "created_at": "2022-03-22 17:55:33+00:00",
+      "id_str": "1506328744302051328",
+      "text": "Kakenya Ntaiya founded @KakenyasDream to enable girls\u2019 education and end harmful traditional practices like child m\u2026 https://t.co/sNIblTYalO",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KakenyasDream",
+            "name": "Kakenya's Dream",
+            "id": 207833154,
+            "id_str": "207833154",
+            "indices": [23, 37]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sNIblTYalO",
+            "expanded_url": "https://twitter.com/i/web/status/1506328744302051328",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 46,
+      "favorite_count": 508
+    },
+    {
+      "created_at": "2022-03-22 17:55:33+00:00",
+      "id_str": "1506328742968188933",
+      "text": "I've been lucky to meet and learn from so many changemakers. These incredible women continue to inspire me. \u2b07\ufe0f",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 263,
+      "favorite_count": 2964
+    },
+    {
+      "created_at": "2022-03-20 23:17:18+00:00",
+      "id_str": "1505684940733620224",
+      "text": "One of the most significant ways my dad\u2019s spirit continues is through the @Gates_Cambridge Scholarship. Of all the\u2026 https://t.co/KfX2V7CQvB",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Gates_Cambridge",
+            "name": "Gates Cambridge",
+            "id": 113561614,
+            "id_str": "113561614",
+            "indices": [74, 90]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KfX2V7CQvB",
+            "expanded_url": "https://twitter.com/i/web/status/1505684940733620224",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 239,
+      "favorite_count": 1992
+    },
+    {
+      "created_at": "2022-03-10 17:04:00+00:00",
+      "id_str": "1501967117201002497",
+      "text": "By acting now and funding organizations like @CEPIvaccines, we can help ensure the world never again experiences th\u2026 https://t.co/QoxKOyoN9p",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "CEPIvaccines",
+            "name": "CEPI",
+            "id": 784351656355897344,
+            "id_str": "784351656355897344",
+            "indices": [45, 58]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QoxKOyoN9p",
+            "expanded_url": "https://twitter.com/i/web/status/1501967117201002497",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 271,
+      "favorite_count": 1797
+    },
+    {
+      "created_at": "2022-03-09 15:50:11+00:00",
+      "id_str": "1501586154440708100",
+      "text": "In a crisis, we can always look for the helpers\u2014the people who are putting their lives on the line to aid refugees\u2026 https://t.co/SHkyZbO5vw",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SHkyZbO5vw",
+            "expanded_url": "https://twitter.com/i/web/status/1501586154440708100",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 330,
+      "favorite_count": 2307
+    },
+    {
+      "created_at": "2022-03-09 15:50:11+00:00",
+      "id_str": "1501586152804925440",
+      "text": "It\u2019s gut-wrenching to see the people of Ukraine suffering so much. The world feels especially heavy right now, with\u2026 https://t.co/JoetMS6Gtk",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JoetMS6Gtk",
+            "expanded_url": "https://twitter.com/i/web/status/1501586152804925440",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 460,
+      "favorite_count": 4189
+    },
+    {
+      "created_at": "2022-02-23 23:40:31+00:00",
+      "id_str": "1496631084213157888",
+      "text": "I\u2019m optimistic about our ability to prevent the next pandemic. We have learned so much from COVID, and the innovati\u2026 https://t.co/gKJuCgS0nh",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gKJuCgS0nh",
+            "expanded_url": "https://twitter.com/i/web/status/1496631084213157888",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 415,
+      "favorite_count": 2930
+    },
+    {
+      "created_at": "2022-02-23 19:00:47+00:00",
+      "id_str": "1496560686482472960",
+      "text": "The Global Fund is one of the best investments in global health. Fully funding its programs for the next 3 years is\u2026 https://t.co/k5Buy3A4Yb",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/k5Buy3A4Yb",
+            "expanded_url": "https://twitter.com/i/web/status/1496560686482472960",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 272,
+      "favorite_count": 1707
+    },
+    {
+      "created_at": "2022-02-22 20:39:26+00:00",
+      "id_str": "1496223127835389952",
+      "text": "At the end of the day, Paul\u2019s most lasting impact can be found in the patients he loved so dearly\u2014all of the people\u2026 https://t.co/tNnCeBP2rZ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tNnCeBP2rZ",
+            "expanded_url": "https://twitter.com/i/web/status/1496223127835389952",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 114,
+      "favorite_count": 1284
+    },
+    {
+      "created_at": "2022-02-21 20:39:30+00:00",
+      "id_str": "1495860754943463424",
+      "text": "His work will continue through Partners in Health, the incredible organization he co-founded. It is a phenomenal legacy.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 129,
+      "favorite_count": 2081
+    },
+    {
+      "created_at": "2022-02-21 20:39:29+00:00",
+      "id_str": "1495860752279875595",
+      "text": "Paul was never happier than when he was caring for patients in one of the clinics he helped create. My heart goes o\u2026 https://t.co/dGVChGzAYA",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dGVChGzAYA",
+            "expanded_url": "https://twitter.com/i/web/status/1495860752279875595",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 78,
+      "favorite_count": 1518
+    },
+    {
+      "created_at": "2022-02-21 20:39:29+00:00",
+      "id_str": "1495860749591519234",
+      "text": "What a devastating loss. Paul is a hero, and I was fortunate to call him a friend. I have never known anyone who wa\u2026 https://t.co/HAh4xufaAg",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HAh4xufaAg",
+            "expanded_url": "https://twitter.com/i/web/status/1495860749591519234",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 459,
+      "favorite_count": 4828
+    },
+    {
+      "created_at": "2022-02-18 02:33:29+00:00",
+      "id_str": "1494500288031453185",
+      "text": "It has been over a year since wild polio paralyzed a child in Pakistan, presenting an incredible opportunity to sto\u2026 https://t.co/eYZJcIOCKI",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eYZJcIOCKI",
+            "expanded_url": "https://twitter.com/i/web/status/1494500288031453185",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 978,
+      "favorite_count": 6309
+    },
+    {
+      "created_at": "2022-02-17 22:31:33+00:00",
+      "id_str": "1494439401912340480",
+      "text": "Thank you @ImranKhanPTI for the productive discussions on the steps being taken in Pakistan to eliminate polio. I\u2019m\u2026 https://t.co/ulVQtD7jP8",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ImranKhanPTI",
+            "name": "Imran Khan",
+            "id": 122453931,
+            "id_str": "122453931",
+            "indices": [10, 23]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ulVQtD7jP8",
+            "expanded_url": "https://twitter.com/i/web/status/1494439401912340480",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 7411,
+      "favorite_count": 42205
+    },
+    {
+      "created_at": "2022-02-12 01:09:11+00:00",
+      "id_str": "1492304743867158529",
+      "text": "I\u2019m hopeful that the world can come together to end this pandemic and prevent the next one. Thanks Dax Shepard, Mon\u2026 https://t.co/gJHV0SYKJZ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gJHV0SYKJZ",
+            "expanded_url": "https://twitter.com/i/web/status/1492304743867158529",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 235,
+      "favorite_count": 1891
+    },
+    {
+      "created_at": "2022-02-10 15:09:48+00:00",
+      "id_str": "1491791515131146241",
+      "text": "The goal of no more pandemics ever is ambitious, but the progress we\u2019ve made over the last two years has already se\u2026 https://t.co/g7s4LLku2L",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g7s4LLku2L",
+            "expanded_url": "https://twitter.com/i/web/status/1491791515131146241",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 424,
+      "favorite_count": 2767
+    },
+    {
+      "created_at": "2022-02-09 21:33:31+00:00",
+      "id_str": "1491525696530698241",
+      "text": "I\u2019m more optimistic than ever that we can one day stop Alzheimer\u2019s because of research like this. https://t.co/yMmt8m4hPP",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yMmt8m4hPP",
+            "expanded_url": "https://b-gat.es/3uxYyLg",
+            "display_url": "b-gat.es/3uxYyLg",
+            "indices": [98, 121]
+          }
+        ]
+      },
+      "retweet_count": 308,
+      "favorite_count": 2627
+    },
+    {
+      "created_at": "2022-02-08 18:11:28+00:00",
+      "id_str": "1491112461399117824",
+      "text": "I believe that COVID-19 can be the last pandemic. \u2018How to Prevent the Next Pandemic\u2019 will explain why. https://t.co/aLGabnIcmx",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aLGabnIcmx",
+            "expanded_url": "https://gatesnot.es/3LfO214",
+            "display_url": "gatesnot.es/3LfO214",
+            "indices": [103, 126]
+          }
+        ]
+      },
+      "retweet_count": 1222,
+      "favorite_count": 7154
+    },
+    {
+      "created_at": "2022-02-05 20:29:33+00:00",
+      "id_str": "1490060045978984448",
+      "text": "Science fiction can help expand our understanding by pushing the limits of what is possible. https://t.co/PKf8fwEvbj",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PKf8fwEvbj",
+            "expanded_url": "https://b-gat.es/3rtrhij",
+            "display_url": "b-gat.es/3rtrhij",
+            "indices": [93, 116]
+          }
+        ]
+      },
+      "retweet_count": 400,
+      "favorite_count": 2845
+    },
+    {
+      "created_at": "2022-02-04 23:49:47+00:00",
+      "id_str": "1489748046745272322",
+      "text": "The Institute for Health Metrics and Evaluation @IHME_UW found that improving trust could make a critical differenc\u2026 https://t.co/DGdmhAYx3r",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "IHME_UW",
+            "name": "Institute for Health Metrics and Evaluation (IHME)",
+            "id": 76780096,
+            "id_str": "76780096",
+            "indices": [48, 56]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DGdmhAYx3r",
+            "expanded_url": "https://twitter.com/i/web/status/1489748046745272322",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 239,
+      "favorite_count": 1743
+    },
+    {
+      "created_at": "2022-01-31 17:00:35+00:00",
+      "id_str": "1488195516567482369",
+      "text": "Significant climate progress is possible in 2022 if we commit to bold action. With the support of our growing commu\u2026 https://t.co/AMYKvOX4TD",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AMYKvOX4TD",
+            "expanded_url": "https://twitter.com/i/web/status/1488195516567482369",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 265,
+      "favorite_count": 1829
+    },
+    {
+      "created_at": "2022-01-31 00:18:23+00:00",
+      "id_str": "1487943305727918081",
+      "text": "The London Declaration on NTDs helped dozens of countries eliminate diseases &amp; reach hundreds of millions more peop\u2026 https://t.co/zzu3WoSkUq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zzu3WoSkUq",
+            "expanded_url": "https://twitter.com/i/web/status/1487943305727918081",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [121, 144]
+          }
+        ]
+      },
+      "retweet_count": 207,
+      "favorite_count": 1465
+    },
+    {
+      "created_at": "2022-01-28 21:54:43+00:00",
+      "id_str": "1487182374727155715",
+      "text": "Strengthening health systems is critical to preventing future pandemics. @exemplarshealth shows how countries like\u2026 https://t.co/HiPqiyhuaK",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "exemplarshealth",
+            "name": "Exemplars in Global Health",
+            "id": 1240775744088768512,
+            "id_str": "1240775744088768512",
+            "indices": [73, 89]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HiPqiyhuaK",
+            "expanded_url": "https://twitter.com/i/web/status/1487182374727155715",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 291,
+      "favorite_count": 2135
+    },
+    {
+      "created_at": "2022-01-26 14:00:49+00:00",
+      "id_str": "1486338339997241345",
+      "text": "We\u2019ve built an incredible organization in the @gatesfoundation over two decades and I\u2019m excited about the next chap\u2026 https://t.co/SySXPmM79w",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gatesfoundation",
+            "name": "Gates Foundation",
+            "id": 17899109,
+            "id_str": "17899109",
+            "indices": [46, 62]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SySXPmM79w",
+            "expanded_url": "https://twitter.com/i/web/status/1486338339997241345",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 362,
+      "favorite_count": 2228
+    },
+    {
+      "created_at": "2022-01-25 22:32:27+00:00",
+      "id_str": "1486104707722407938",
+      "text": "Kakenya Ntaiya bravely defied local traditions to make a different plan for her future and her community. In a soci\u2026 https://t.co/OXtJJi3s8b",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OXtJJi3s8b",
+            "expanded_url": "https://twitter.com/i/web/status/1486104707722407938",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 291,
+      "favorite_count": 1835
+    },
+    {
+      "created_at": "2022-01-24 18:54:37+00:00",
+      "id_str": "1485687499158536193",
+      "text": "One person\u2019s act of bravery can spark dramatic change in hundreds of lives. @KakenyaN\u2019s story is a powerful example. https://t.co/jfqLInI7Me",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KakenyaN",
+            "name": "Kakenya Ntaiya",
+            "id": 154516111,
+            "id_str": "154516111",
+            "indices": [76, 85]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jfqLInI7Me",
+            "expanded_url": "https://gatesnot.es/3nTwhKQ",
+            "display_url": "gatesnot.es/3nTwhKQ",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 347,
+      "favorite_count": 2372
+    },
+    {
+      "created_at": "2022-01-23 23:05:33+00:00",
+      "id_str": "1485388261136556035",
+      "text": "This is an important reminder from @rajpanjabi. The world should not have to choose between saving lives from COVID\u2026 https://t.co/ZYPDzrIHjy",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "rajpanjabi",
+            "name": "Raj Panjabi, M.D.",
+            "id": 43113029,
+            "id_str": "43113029",
+            "indices": [35, 46]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZYPDzrIHjy",
+            "expanded_url": "https://twitter.com/i/web/status/1485388261136556035",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 284,
+      "favorite_count": 2244
+    },
+    {
+      "created_at": "2022-01-21 17:14:09+00:00",
+      "id_str": "1484575054482456576",
+      "text": "I wholeheartedly agree with Larry's view that all companies need to be actively preparing for their net zero transi\u2026 https://t.co/4NZl4w4QCi",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4NZl4w4QCi",
+            "expanded_url": "https://twitter.com/i/web/status/1484575054482456576",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 249,
+      "favorite_count": 1800
+    },
+    {
+      "created_at": "2022-01-20 06:25:03+00:00",
+      "id_str": "1484049313483214848",
+      "text": "European Commissioner @SKyriakidesEU and I discussed the importance of multilateral partnerships like @CEPIvaccines\u2026 https://t.co/uSozyPpSYj",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SKyriakidesEU",
+            "name": "Stella Kyriakides",
+            "id": 2476130260,
+            "id_str": "2476130260",
+            "indices": [22, 36]
+          },
+          {
+            "screen_name": "CEPIvaccines",
+            "name": "CEPI",
+            "id": 784351656355897344,
+            "id_str": "784351656355897344",
+            "indices": [102, 115]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uSozyPpSYj",
+            "expanded_url": "https://twitter.com/i/web/status/1484049313483214848",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 240,
+      "favorite_count": 1822
+    },
+    {
+      "created_at": "2022-01-19 23:16:30+00:00",
+      "id_str": "1483941466670252032",
+      "text": "To have any hope of reaching net zero and halting the progress of climate change, we need deep and comprehensive co\u2026 https://t.co/wEV1FUuYVT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wEV1FUuYVT",
+            "expanded_url": "https://twitter.com/i/web/status/1483941466670252032",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 251,
+      "favorite_count": 1673
+    },
+    {
+      "created_at": "2022-01-19 04:54:18+00:00",
+      "id_str": "1483664088735514624",
+      "text": "The omicron surge is an unfortunate reminder that the only way to eliminate the threat of COVID-19 somewhere is to\u2026 https://t.co/RupvqB5I82",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RupvqB5I82",
+            "expanded_url": "https://twitter.com/i/web/status/1483664088735514624",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 358,
+      "favorite_count": 2593
+    },
+    {
+      "created_at": "2022-01-18 17:10:47+00:00",
+      "id_str": "1483487041677524994",
+      "text": "Genomic sequencing is a critical tool that will help us fight COVID-19 and prevent the next pandemic. https://t.co/lCP74qexkB",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lCP74qexkB",
+            "expanded_url": "https://b-gat.es/3tDLUde",
+            "display_url": "b-gat.es/3tDLUde",
+            "indices": [102, 125]
+          }
+        ]
+      },
+      "retweet_count": 293,
+      "favorite_count": 1977
+    },
+    {
+      "created_at": "2022-01-14 00:30:58+00:00",
+      "id_str": "1481785879068692483",
+      "text": "The fight to eradicate HIV is far from over, but incredible progress has been made through scientific innovation, a\u2026 https://t.co/Z7bd2o0CKN",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Z7bd2o0CKN",
+            "expanded_url": "https://twitter.com/i/web/status/1481785879068692483",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 367,
+      "favorite_count": 2304
+    },
+    {
+      "created_at": "2022-01-13 01:39:48+00:00",
+      "id_str": "1481440812252598280",
+      "text": "ICYMI here\u2019s a recap of my conversation with @devisridhar. We chatted about this pandemic, how to prevent the next\u2026 https://t.co/4Mt1PVrIyL",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [45, 57]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4Mt1PVrIyL",
+            "expanded_url": "https://twitter.com/i/web/status/1481440812252598280",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 354,
+      "favorite_count": 2532
+    },
+    {
+      "created_at": "2022-01-11 23:58:46+00:00",
+      "id_str": "1481053000517185536",
+      "text": "Thanks @devisridhar for taking the time today to discuss omicron, vaccines, and how the world can come together to\u2026 https://t.co/b44HGBcYfz",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [7, 19]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/b44HGBcYfz",
+            "expanded_url": "https://twitter.com/i/web/status/1481053000517185536",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 217,
+      "favorite_count": 1825
+    },
+    {
+      "created_at": "2022-01-11 19:00:49+00:00",
+      "id_str": "1480978019829256192",
+      "text": "@devisridhar @gavi @WHO @CDCgov @trvrb .@DrTedros  has started the conversation about how we avoid the next pandemi\u2026 https://t.co/AxKt0uhkEt",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          },
+          {
+            "screen_name": "trvrb",
+            "name": "Trevor Bedford",
+            "id": 224896427,
+            "id_str": "224896427",
+            "indices": [32, 38]
+          },
+          {
+            "screen_name": "DrTedros",
+            "name": "Tedros Adhanom Ghebreyesus",
+            "id": 189868631,
+            "id_str": "189868631",
+            "indices": [40, 49]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AxKt0uhkEt",
+            "expanded_url": "https://twitter.com/i/web/status/1480978019829256192",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 69,
+      "favorite_count": 323
+    },
+    {
+      "created_at": "2022-01-11 18:58:22+00:00",
+      "id_str": "1480977403270762496",
+      "text": "@devisridhar @gavi @WHO @CDCgov A more transmissive variant is not likely but we have been surprised a lot during t\u2026 https://t.co/ex6OFgbanh",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ex6OFgbanh",
+            "expanded_url": "https://twitter.com/i/web/status/1480977403270762496",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 131,
+      "favorite_count": 413
+    },
+    {
+      "created_at": "2022-01-11 18:55:46+00:00",
+      "id_str": "1480976747440984067",
+      "text": "@devisridhar @gavi @WHO @CDCgov As countries experience their Omicron wave health systems will be challenged. Most\u2026 https://t.co/hUcCLnaKEA",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hUcCLnaKEA",
+            "expanded_url": "https://twitter.com/i/web/status/1480976747440984067",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 286,
+      "favorite_count": 803
+    },
+    {
+      "created_at": "2022-01-11 18:51:55+00:00",
+      "id_str": "1480975779403997186",
+      "text": "@devisridhar @gavi @WHO @CDCgov The data is pretty strong that it came from another species which is true for most\u2026 https://t.co/pTHbLW8ccg",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pTHbLW8ccg",
+            "expanded_url": "https://twitter.com/i/web/status/1480975779403997186",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 66,
+      "favorite_count": 223
+    },
+    {
+      "created_at": "2022-01-11 18:47:31+00:00",
+      "id_str": "1480974672912998402",
+      "text": "@devisridhar @gavi @WHO @CDCgov I am optimistic about polio eradication - we are close. Malaria, HIV, Nutrition, wi\u2026 https://t.co/jgr2aT49sq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jgr2aT49sq",
+            "expanded_url": "https://twitter.com/i/web/status/1480974672912998402",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 31,
+      "favorite_count": 205
+    },
+    {
+      "created_at": "2022-01-11 18:46:13+00:00",
+      "id_str": "1480974345585377283",
+      "text": "@devisridhar @gavi @WHO @CDCgov From 2000 to the start of the pandemic we made strong progress on health and other\u2026 https://t.co/gUZmSWKS4o",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gUZmSWKS4o",
+            "expanded_url": "https://twitter.com/i/web/status/1480974345585377283",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 32,
+      "favorite_count": 184
+    },
+    {
+      "created_at": "2022-01-11 18:42:19+00:00",
+      "id_str": "1480973364080435205",
+      "text": "@devisridhar @gavi @WHO @CDCgov People like you and I and Tony Fauci have been subject to a lot of misinformation.\u2026 https://t.co/YD3hYJWZqZ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [19, 23]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [24, 31]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YD3hYJWZqZ",
+            "expanded_url": "https://twitter.com/i/web/status/1480973364080435205",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 180,
+      "favorite_count": 770
+    },
+    {
+      "created_at": "2022-01-11 18:40:30+00:00",
+      "id_str": "1480972904560934912",
+      "text": "@devisridhar @gavi Trusted authorities like @WHO  and @CDCgov need more resources to see the pandemic early (survei\u2026 https://t.co/3qFrKACOAm",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          },
+          {
+            "screen_name": "WHO",
+            "name": "World Health Organization (WHO)",
+            "id": 14499829,
+            "id_str": "14499829",
+            "indices": [44, 48]
+          },
+          {
+            "screen_name": "CDCgov",
+            "name": "CDC",
+            "id": 146569971,
+            "id_str": "146569971",
+            "indices": [54, 61]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3qFrKACOAm",
+            "expanded_url": "https://twitter.com/i/web/status/1480972904560934912",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 53,
+      "favorite_count": 210
+    },
+    {
+      "created_at": "2022-01-11 18:34:25+00:00",
+      "id_str": "1480971375560986624",
+      "text": "@devisridhar @gavi Do you think the world will come together to get ready for the next one? I hope so but I am not sure.#",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          }
+        ],
+        "urls": []
+      },
+      "retweet_count": 151,
+      "favorite_count": 346
+    },
+    {
+      "created_at": "2022-01-11 18:33:17+00:00",
+      "id_str": "1480971089194860545",
+      "text": "@devisridhar @gavi Also some countries did a better job of reducing mobility, using masks and protecting the elderl\u2026 https://t.co/iImx7hFwt0",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iImx7hFwt0",
+            "expanded_url": "https://twitter.com/i/web/status/1480971089194860545",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 37,
+      "favorite_count": 195
+    },
+    {
+      "created_at": "2022-01-11 18:32:28+00:00",
+      "id_str": "1480970884307247104",
+      "text": "@devisridhar @gavi A few countries like Australia moved fast to diagnose cases at scale and isolate people who were\u2026 https://t.co/nMkleqwSeW",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          },
+          {
+            "screen_name": "gavi",
+            "name": "Gavi, the Vaccine Alliance",
+            "id": 97219875,
+            "id_str": "97219875",
+            "indices": [13, 18]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nMkleqwSeW",
+            "expanded_url": "https://twitter.com/i/web/status/1480970884307247104",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 88,
+      "favorite_count": 316
+    },
+    {
+      "created_at": "2022-01-11 18:28:56+00:00",
+      "id_str": "1480969993944584198",
+      "text": "@devisridhar When we have adequate supply then tiered pricing is used where the rich countries pay a lot more than\u2026 https://t.co/tQrtJu6XYT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tQrtJu6XYT",
+            "expanded_url": "https://twitter.com/i/web/status/1480969993944584198",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 43,
+      "favorite_count": 204
+    },
+    {
+      "created_at": "2022-01-11 18:24:55+00:00",
+      "id_str": "1480968984514023428",
+      "text": "@devisridhar mRna vaccines still can't meet all the demand so figuring out who gets what is complicated.#",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          }
+        ],
+        "urls": []
+      },
+      "retweet_count": 37,
+      "favorite_count": 170
+    },
+    {
+      "created_at": "2022-01-11 18:23:45+00:00",
+      "id_str": "1480968692401782788",
+      "text": "@devisridhar During 2021 the supply of vaccines was limited and they mostly went to wealthy countries. Now we have\u2026 https://t.co/cw4XsLoW1e",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cw4XsLoW1e",
+            "expanded_url": "https://twitter.com/i/web/status/1480968692401782788",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 58,
+      "favorite_count": 261
+    },
+    {
+      "created_at": "2022-01-11 18:20:24+00:00",
+      "id_str": "1480967846607736832",
+      "text": "@devisridhar The vaccines we have prevent severe disease and death very well but they are missing two key things.\u2026 https://t.co/XFR8WM4AN1",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [0, 12]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XFR8WM4AN1",
+            "expanded_url": "https://twitter.com/i/web/status/1480967846607736832",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [115, 138]
+          }
+        ]
+      },
+      "retweet_count": 290,
+      "favorite_count": 963
+    },
+    {
+      "created_at": "2022-01-11 17:56:50+00:00",
+      "id_str": "1480961918047186948",
+      "text": "I'm excited to talk with @DeviSridhar today about her work at the University of Edinburgh Medical School and\u2026 https://t.co/M0IV718fRt",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "devisridhar",
+            "name": "Prof. Devi Sridhar",
+            "id": 174151902,
+            "id_str": "174151902",
+            "indices": [25, 37]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/M0IV718fRt",
+            "expanded_url": "https://twitter.com/i/web/status/1480961918047186948",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [110, 133]
+          }
+        ]
+      },
+      "retweet_count": 85,
+      "favorite_count": 986
+    },
+    {
+      "created_at": "2022-01-11 17:56:50+00:00",
+      "id_str": "1480961916268789760",
+      "text": "Through my foundation work I'm very lucky to have the opportunity to talk to\u2014and learn from\u2014experts in many differe\u2026 https://t.co/jjxBY3imLr",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jjxBY3imLr",
+            "expanded_url": "https://twitter.com/i/web/status/1480961916268789760",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 175,
+      "favorite_count": 1603
+    },
+    {
+      "created_at": "2022-01-07 19:35:25+00:00",
+      "id_str": "1479537175662313479",
+      "text": "Understanding how the connections in our brains give rise to consciousness and our ability to learn may help lead t\u2026 https://t.co/v8JYxVfbkt",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v8JYxVfbkt",
+            "expanded_url": "https://twitter.com/i/web/status/1479537175662313479",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 527,
+      "favorite_count": 3494
+    },
+    {
+      "created_at": "2022-01-04 20:43:46+00:00",
+      "id_str": "1478467212801232898",
+      "text": ".@WalterIsaacson is one of my favorite authors. I was eager to read his latest book about CRISPR and its inventor J\u2026 https://t.co/fGJWHUVGJI",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "WalterIsaacson",
+            "name": "Walter Isaacson",
+            "id": 34719119,
+            "id_str": "34719119",
+            "indices": [1, 16]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fGJWHUVGJI",
+            "expanded_url": "https://twitter.com/i/web/status/1478467212801232898",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 492,
+      "favorite_count": 3030
+    },
+    {
+      "created_at": "2021-12-30 01:20:15+00:00",
+      "id_str": "1476362464124043264",
+      "text": "Heroes like @PumlaNtlabati are spreading important information, and hope, across South Africa with the help of an u\u2026 https://t.co/vIKe4xr6TK",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PumlaNtlabati",
+            "name": "Pumla Ntlabati",
+            "id": 473727249,
+            "id_str": "473727249",
+            "indices": [12, 26]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vIKe4xr6TK",
+            "expanded_url": "https://twitter.com/i/web/status/1476362464124043264",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 335,
+      "favorite_count": 2351
+    },
+    {
+      "created_at": "2021-12-27 22:49:47+00:00",
+      "id_str": "1475599822019121152",
+      "text": "We have some, but not all, of the tools we need to hit our target of limiting global warming to less than 2 degrees\u2026 https://t.co/3yPQ04kGyE",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3yPQ04kGyE",
+            "expanded_url": "https://twitter.com/i/web/status/1475599822019121152",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 517,
+      "favorite_count": 4067
+    },
+    {
+      "created_at": "2021-12-26 18:34:19+00:00",
+      "id_str": "1475173144633610243",
+      "text": "The world has lost a hero. Archbishop Desmond Tutu led with his values, empathy and optimism. He put everyone he me\u2026 https://t.co/5xAebqVUdL",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5xAebqVUdL",
+            "expanded_url": "https://twitter.com/i/web/status/1475173144633610243",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 641,
+      "favorite_count": 6667
+    },
+    {
+      "created_at": "2021-12-24 00:30:44+00:00",
+      "id_str": "1474175674185228291",
+      "text": "One of my favorite holiday traditions is sharing books with family and friends. Here are 5 books I loved reading th\u2026 https://t.co/z2IvJNXapB",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z2IvJNXapB",
+            "expanded_url": "https://twitter.com/i/web/status/1474175674185228291",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 670,
+      "favorite_count": 5325
+    },
+    {
+      "created_at": "2021-12-23 01:06:40+00:00",
+      "id_str": "1473822331344605184",
+      "text": "Mamello Makhele is a hero from Lesotho who traveled by foot and donkey to bring health services to women in need du\u2026 https://t.co/boeNiooyOq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/boeNiooyOq",
+            "expanded_url": "https://twitter.com/i/web/status/1473822331344605184",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 724,
+      "favorite_count": 3675
+    },
+    {
+      "created_at": "2021-12-21 16:46:14+00:00",
+      "id_str": "1473334003973324801",
+      "text": "I know it\u2019s frustrating to go into another holiday season with COVID looming over us. But it won\u2019t be like this for\u2026 https://t.co/rCqulRmQVX",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rCqulRmQVX",
+            "expanded_url": "https://twitter.com/i/web/status/1473334003973324801",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 878,
+      "favorite_count": 6920
+    },
+    {
+      "created_at": "2021-12-21 16:46:14+00:00",
+      "id_str": "1473334002903777281",
+      "text": "If there\u2019s good news here, it\u2019s that omicron moves so quickly that once it becomes dominant in a country, the wave\u2026 https://t.co/2DU7JVuVZX",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2DU7JVuVZX",
+            "expanded_url": "https://twitter.com/i/web/status/1473334002903777281",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 1021,
+      "favorite_count": 5970
+    },
+    {
+      "created_at": "2021-12-21 16:46:13+00:00",
+      "id_str": "1473334001821650948",
+      "text": "There will be more breakthrough cases in people who are vx\u2019d, which sounds concerning but is purely a factor of how\u2026 https://t.co/eLNo67iSyU",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eLNo67iSyU",
+            "expanded_url": "https://twitter.com/i/web/status/1473334001821650948",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 377,
+      "favorite_count": 2475
+    },
+    {
+      "created_at": "2021-12-21 16:46:13+00:00",
+      "id_str": "1473334000622063620",
+      "text": "In the meantime, we all have to look out for each other, especially the most vulnerable, whether they live down the\u2026 https://t.co/EzSM2KvdHp",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EzSM2KvdHp",
+            "expanded_url": "https://twitter.com/i/web/status/1473334000622063620",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 403,
+      "favorite_count": 2603
+    },
+    {
+      "created_at": "2021-12-21 16:46:13+00:00",
+      "id_str": "1473333999493779461",
+      "text": "The big unknown is how sick omicron makes you. We need to take it seriously until we know more about it. Even if it\u2026 https://t.co/Gv80uKgYV2",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gv80uKgYV2",
+            "expanded_url": "https://twitter.com/i/web/status/1473333999493779461",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 522,
+      "favorite_count": 2966
+    },
+    {
+      "created_at": "2021-12-21 16:46:13+00:00",
+      "id_str": "1473333998340300804",
+      "text": "Omicron is spreading faster than any virus in history. It will soon be in every country in the world.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "retweet_count": 934,
+      "favorite_count": 3844
+    },
+    {
+      "created_at": "2021-12-21 16:46:12+00:00",
+      "id_str": "1473333996868149248",
+      "text": "Just when it seemed like life would return to normal, we could be entering the worst part of the pandemic. Omicron\u2026 https://t.co/uEIlO3KrSb",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uEIlO3KrSb",
+            "expanded_url": "https://twitter.com/i/web/status/1473333996868149248",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 4469,
+      "favorite_count": 16079
+    },
+    {
+      "created_at": "2021-12-18 17:24:43+00:00",
+      "id_str": "1472256526454702081",
+      "text": "In Tanzania, health workers and community members are serving as disease detectives with a new app called Afyadata:\u2026 https://t.co/bJFbqo1FHH",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bJFbqo1FHH",
+            "expanded_url": "https://twitter.com/i/web/status/1472256526454702081",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 369,
+      "favorite_count": 2301
+    },
+    {
+      "created_at": "2021-12-14 23:39:26+00:00",
+      "id_str": "1470901274627358720",
+      "text": "I spoke to Prime Minister @Kishida230 about his new global health strategy and Japan\u2019s commitment to the world\u2019s po\u2026 https://t.co/a0ApHJE969",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kishida230",
+            "name": "\u5cb8\u7530\u6587\u96c4",
+            "id": 1247032696586436609,
+            "id_str": "1247032696586436609",
+            "indices": [26, 37]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a0ApHJE969",
+            "expanded_url": "https://twitter.com/i/web/status/1470901274627358720",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 310,
+      "favorite_count": 2147
+    },
+    {
+      "created_at": "2021-12-10 17:18:41+00:00",
+      "id_str": "1469355904994734080",
+      "text": "The Omicron variant is concerning, but the world is better prepared to tackle potentially bad variants than at any\u2026 https://t.co/xADNVoN8r3",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xADNVoN8r3",
+            "expanded_url": "https://twitter.com/i/web/status/1469355904994734080",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 429,
+      "favorite_count": 3422
+    },
+    {
+      "created_at": "2021-12-09 18:30:36+00:00",
+      "id_str": "1469011614049337345",
+      "text": "Great to meet with @MohamedbinZayed again to recognize Niger\u2019s progress in the fight against neglected tropical dis\u2026 https://t.co/GBp9fZzxTy",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MohamedBinZayed",
+            "name": "\u0645\u062d\u0645\u062f \u0628\u0646 \u0632\u0627\u064a\u062f",
+            "id": 471010707,
+            "id_str": "471010707",
+            "indices": [19, 35]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GBp9fZzxTy",
+            "expanded_url": "https://twitter.com/i/web/status/1469011614049337345",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 264,
+      "favorite_count": 2094
+    },
+    {
+      "created_at": "2021-12-09 14:46:23+00:00",
+      "id_str": "1468955190548066318",
+      "text": "This order signed by President Biden signals a strong commitment to deploying the solutions we need to get to net-z\u2026 https://t.co/oSGIE1keT1",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oSGIE1keT1",
+            "expanded_url": "https://twitter.com/i/web/status/1468955190548066318",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 268,
+      "favorite_count": 2466
+    },
+    {
+      "created_at": "2021-12-08 19:32:28+00:00",
+      "id_str": "1468664794567700483",
+      "text": "2021 was an incredibly hard year for many people, including me, but there are reasons to be optimistic that 2022 wi\u2026 https://t.co/4EXPNNu9Bq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4EXPNNu9Bq",
+            "expanded_url": "https://twitter.com/i/web/status/1468664794567700483",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 496,
+      "favorite_count": 3061
+    },
+    {
+      "created_at": "2021-12-08 16:01:53+00:00",
+      "id_str": "1468611799545044992",
+      "text": "Better nutrition can lead to shifts in health and productivity\u2014boosting prosperity for families, communities, and e\u2026 https://t.co/O6RjnmH2Wi",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/O6RjnmH2Wi",
+            "expanded_url": "https://twitter.com/i/web/status/1468611799545044992",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 247,
+      "favorite_count": 1883
+    },
+    {
+      "created_at": "2021-12-07 18:12:00+00:00",
+      "id_str": "1468282157659394055",
+      "text": "2021 has been a year of big transitions for me, but it hasn\u2019t changed why I love the work I do. Here are four thing\u2026 https://t.co/mzRJlMvzcI",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mzRJlMvzcI",
+            "expanded_url": "https://twitter.com/i/web/status/1468282157659394055",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 386,
+      "favorite_count": 2819
+    },
+    {
+      "created_at": "2021-12-06 15:43:05+00:00",
+      "id_str": "1467882292827721730",
+      "text": "The groundbreaking RTS,S vaccine will help save tens of thousands of children and is paving the way for a new pipel\u2026 https://t.co/kP0tfxeWfb",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kP0tfxeWfb",
+            "expanded_url": "https://twitter.com/i/web/status/1467882292827721730",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 262,
+      "favorite_count": 2315
+    },
+    {
+      "created_at": "2021-12-06 00:50:45+00:00",
+      "id_str": "1467657732014497793",
+      "text": "Robots will play a huge part in our future, and fiction like Kazuo Ishiguro's Klara and the Sun is a great way to e\u2026 https://t.co/vbRlbCYzrT",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vbRlbCYzrT",
+            "expanded_url": "https://twitter.com/i/web/status/1467657732014497793",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 373,
+      "favorite_count": 2958
+    },
+    {
+      "created_at": "2021-11-30 20:22:50+00:00",
+      "id_str": "1465778366707998721",
+      "text": "Accelerating long-duration energy storage innovation can significantly reduce annual CO2 emissions and lay the foun\u2026 https://t.co/FIpWg3RoF7",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FIpWg3RoF7",
+            "expanded_url": "https://twitter.com/i/web/status/1465778366707998721",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 320,
+      "favorite_count": 2000
+    },
+    {
+      "created_at": "2021-11-29 22:20:47+00:00",
+      "id_str": "1465445663353688066",
+      "text": "The @gatesfoundation is supporting GIISER which is working to increase the in-country capacity for rapid evaluation\u2026 https://t.co/RiihMFgw3G",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gatesfoundation",
+            "name": "Gates Foundation",
+            "id": 17899109,
+            "id_str": "17899109",
+            "indices": [4, 20]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RiihMFgw3G",
+            "expanded_url": "https://twitter.com/i/web/status/1465445663353688066",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 145,
+      "favorite_count": 1199
+    },
+    {
+      "created_at": "2021-11-29 22:20:47+00:00",
+      "id_str": "1465445661755666433",
+      "text": "South Africa did the right thing by reporting these cases. They have invested heavily in R&amp;D including genomic sequ\u2026 https://t.co/4HYlfSffcW",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4HYlfSffcW",
+            "expanded_url": "https://twitter.com/i/web/status/1465445661755666433",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [121, 144]
+          }
+        ]
+      },
+      "retweet_count": 188,
+      "favorite_count": 1729
+    }
+  ]
+}
