@@ -2,6 +2,7 @@ import { useState } from "react";
 import service from "./utils/service";
 import "./styles/App.css";
 import TweetSegment from "./components/TweetSegment";
+import LoadScreen from "./components/LoadScreen";
 import logo from "./logo.png";
 
 function App() {
@@ -9,19 +10,22 @@ function App() {
   const [query, setQuery] = useState();
   const [slider, setSlider] = useState(40);
   const [data, setData] = useState();
+  const [load, setLoad] = useState(false);
 
   const fetchBy = {
     screen_name: service.byScreenName,
     user_id: service.byUserId,
-    tweet_id: service.byTweetId,
   };
 
   const searchTweets = async () => {
     if (query) {
       const resp = await fetchBy[identifier](query, slider);
+      setLoad(false);
       setData(resp.data);
     }
   };
+
+  if (load) return <LoadScreen />;
 
   return (
     <div style={{ display: "flex", width: "100vw" }}>
@@ -65,7 +69,10 @@ function App() {
           <button
             className="input"
             style={{ marginLeft: "5px" }}
-            onClick={searchTweets}
+            onClick={() => {
+              searchTweets();
+              setLoad(true);
+            }}
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
