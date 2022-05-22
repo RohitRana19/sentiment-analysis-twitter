@@ -28,16 +28,9 @@ function App() {
   if (load) return <LoadScreen />;
 
   return (
-    <div style={{ display: "flex", width: "100vw" }}>
-      <div className="container">
-        {data ? (
-          <TweetSegment data={data} />
-        ) : (
-          <img src={logo} className="logobg" />
-        )}
-      </div>
+    <div>
       <div className="dashboard">
-        <div>
+        <div onClick={()=>window.location.reload()}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="20"
@@ -57,7 +50,34 @@ function App() {
           </svg>
           &nbsp;Home
         </div>
-        <hr />
+        <div className="input">
+            <input
+              type="radio"
+              name="by_identifier"
+              value="screen_name"
+              defaultChecked="true"
+              onChange={(e) => setIdentifier(e.target.value)}
+            />
+            <label>User Screen Name</label>
+            <input
+              type="radio"
+              name="by_identifier"
+              value="user_id"
+              onChange={(e) => setIdentifier(e.target.value)}
+            />
+            <label>User Id</label>
+        </div>
+        <div className="input">
+          <input
+            type="range"
+            min={40}
+            max={800}
+            step={20}
+            defaultValue={20}
+            onChange={(e) => setSlider(e.target.value)}
+          />
+          <label>{slider}</label>
+        </div>
         <div className="search">
           <input
             id="search"
@@ -86,39 +106,13 @@ function App() {
             </svg>
           </button>
         </div>
-        <div className="input">
-          <div className="input">
-            <input
-              type="radio"
-              name="by_identifier"
-              value="screen_name"
-              defaultChecked="true"
-              onChange={(e) => setIdentifier(e.target.value)}
-            />
-            <label>User Screen Name</label>
-          </div>
-
-          <div className="input">
-            <input
-              type="radio"
-              name="by_identifier"
-              value="user_id"
-              onChange={(e) => setIdentifier(e.target.value)}
-            />
-            <label>User Id</label>
-          </div>
-        </div>
-        <div className="input">
-          <input
-            type="range"
-            min={40}
-            max={800}
-            step={20}
-            defaultValue={20}
-            onChange={(e) => setSlider(e.target.value)}
-          />
-          <label>{slider}</label>
-        </div>
+      </div>
+      <div className="container">
+        {data ? (
+          <TweetSegment data={data} />
+        ) : (
+          <img src={logo} className="logobg" />
+        )}
       </div>
     </div>
   );
