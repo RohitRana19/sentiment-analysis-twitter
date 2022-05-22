@@ -9,7 +9,7 @@ const UserCard = ({ userData }) => {
           <p>@{screen_name}</p>
         </div>
       </div>
-      <b>Influence Score: {influence}</b>
+      <b>Influence Score: {influence===0?0:influence.toFixed(2)}</b>
       <div>Count: {count}</div>
     </div>
   );

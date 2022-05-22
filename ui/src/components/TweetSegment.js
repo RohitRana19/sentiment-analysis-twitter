@@ -6,11 +6,11 @@ const TweetSegment = ({ data }) => {
   const { user, tweets } = data;
   var influenceData = [["", "Influence"]];
   var infpolData = [["", "Influence Polarity"]];
-  var sentimentData = [["", "Sentiment"]];
+  var sentimentData = [["", "Sentiment", { role: 'style' }]];
   tweets.map((tweet, index) => {
     influenceData.push(["", tweet.influence]);
     infpolData.push(["", tweet.influence_polarity]);
-    sentimentData.push(["", tweet.sentiment]);
+    sentimentData.push(["", tweet.sentiment,tweet.sentiment>0?"green":tweet.sentiment===0?"yellow":"red"]);
   });
 
   return (

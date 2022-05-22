@@ -8,9 +8,10 @@ const BarGraph = ({ influenceData, infpolData, sentimentData }) => {
         chartType="ColumnChart"
         data={sentimentData}
         options={{
-          title: "Analysis",
+          title: "Sentiment Score of Tweets",
           hAxis: { title: "" },
-          vAxis: { title: "Sentiment Score" },
+          vAxis: { title: "Score" },
+          legend:"none"
         }}
       />
       <br />
@@ -18,9 +19,10 @@ const BarGraph = ({ influenceData, infpolData, sentimentData }) => {
         chartType="LineChart"
         data={influenceData}
         options={{
-          title: "Analysis",
+          title: "Influence Score of Tweets",
           hAxis: { title: "" },
-          vAxis: { title: "Influence Score" },
+          vAxis: { title: "Influence" },
+          legend:"none"
         }}
       />
       <br />
@@ -28,9 +30,11 @@ const BarGraph = ({ influenceData, infpolData, sentimentData }) => {
         chartType="LineChart"
         data={infpolData}
         options={{
-          title: "Analysis",
+          title: "Influence Polarity of Tweets",
           hAxis: { title: "" },
-          vAxis: { title: "Influence Score" },
+          vAxis: { title: "Polarity" },
+          colors:["black"],
+          legend:"none"
         }}
       />
     </div>
