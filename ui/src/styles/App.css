@@ -5,6 +5,15 @@ body{
   padding:30px;
   width:75%;
 }
+.logobg{
+  width:50%;
+  height:auto;
+  border-radius:0;
+  position:relative;
+  left:50%;
+  top:30%;
+  transform: translate(-50%,-30%);
+}
 .dashboard{
   background-color: #003464;
   color:white;
