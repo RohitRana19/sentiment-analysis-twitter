@@ -6,16 +6,15 @@ const UserCard = ({ userData }) => {
         display: "flex",
         margin: "20px 0px 20px 0px",
         padding: "10px",
-        backgroundColor: "#74b6f7",
+        backgroundColor: "rgb(50, 167, 246)",borderRadius:"10px"
       }}
     >
-      <img src={profile_image_url} />
+      <img src={profile_image_url} alt='/profileimage' style={{marginTop:"5px",marginBottom:"8px"}}/>
       <div className="user">
         <p>{name}</p>
         <p>@{screen_name}</p>
+        <b>Influence Score: {influence === 0 ? 0 : influence.toFixed(2)}</b>
       </div>
-      <b>Influence Score: {influence === 0 ? 0 : influence.toFixed(2)}</b>
-      <div>Count: {count}</div>
     </div>
   );
 };

@@ -11,7 +11,7 @@ const Graph = ({
   lenMetrics,
 }) => {
   return (
-    <div style={{ width: "500px", margin: "20px" }}>
+    <div style={{ width: "750px", margin: "20px" }}>
       <Chart
         chartType="ColumnChart"
         data={sentimentData}
