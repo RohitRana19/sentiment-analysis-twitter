@@ -41,12 +41,22 @@ function TweetCard({ tweetData }) {
       </label>
       <hr />
       <div>
-        <b>{retweet_count}</b> Retweets
-        <b> {favorite_count}</b> Likes
+        <table style={{width:"100%"}}>
+          <tr>
+            <td style={{textAlign:"center"}}>Retweets</td>
+            <td style={{textAlign:"center"}}>Likes</td>
+            <td style={{textAlign:"center"}}>Sentiment</td>
+            <td style={{textAlign:"center"}}>Influence</td>
+          </tr>
+          <tr>
+            <th>{retweet_count}</th>
+            <th>{favorite_count}</th>
+            <th style={sentiment>0?{backgroundColor:"green",color:"white"}:sentiment===0?{backgroundColor:"yellow"}:{backgroundColor:"red"}}>{sentiment}</th>
+            <th>{influence===0?0:influence.toFixed(2)}</th>
+          </tr>
+        </table>
       </div>
       <hr />
-      <div>Sentiment Score: {sentiment}</div>
-      <div>Influence Score: {influence}</div>
     </div>
   );
 }
