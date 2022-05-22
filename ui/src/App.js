@@ -7,7 +7,7 @@ import logo from "./logo.png";
 function App() {
   const [identifier, setIdentifier] = useState("screen_name");
   const [query, setQuery] = useState();
-  const [slider, setSlider] = useState(20);
+  const [slider, setSlider] = useState(40);
   const [data, setData] = useState();
 
   const fetchBy = {
@@ -26,7 +26,11 @@ function App() {
   return (
     <div style={{ display: "flex", width: "100vw" }}>
       <div className="container">
-        {data ? <TweetSegment data={data} /> : <img src={logo} className='logobg'/>}
+        {data ? (
+          <TweetSegment data={data} />
+        ) : (
+          <img src={logo} className="logobg" />
+        )}
       </div>
       <div className="dashboard">
         <div>
@@ -96,23 +100,13 @@ function App() {
             />
             <label>User Id</label>
           </div>
-
-          <div className="input">
-            <input
-              type="radio"
-              name="by_identifier"
-              value="tweet_id"
-              onChange={(e) => setIdentifier(e.target.value)}
-            />
-            <label>Tweet Id</label>
-          </div>
         </div>
         <div className="input">
           <input
             type="range"
-            min={5}
-            max={200}
-            step={5}
+            min={40}
+            max={800}
+            step={20}
             defaultValue={20}
             onChange={(e) => setSlider(e.target.value)}
           />

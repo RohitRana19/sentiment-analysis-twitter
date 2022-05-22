@@ -9,10 +9,6 @@ const service = {
   byScreenName: (screenName, count) => {
     return axios.get(`${base_url}screen_name/${screenName}/${count}`);
   },
-
-  byTweetId: (tweetId) => {
-    return axios.get(`${base_url}id/tweet/${tweetId}`);
-  },
 };
 
 export default service;

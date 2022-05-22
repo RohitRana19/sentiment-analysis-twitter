@@ -1,7 +1,20 @@
 import "../../styles/App.css";
 
 function TweetCard({ tweetData }) {
-  const months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const months = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
   const {
     text,
     created_at,
@@ -9,14 +22,14 @@ function TweetCard({ tweetData }) {
     favorite_count,
     entities,
     sentiment,
-    influence
+    influence,
   } = tweetData;
-  var date=Date.parse(created_at);
-  var hours=new Date(date).getHours();
-  var mins=new Date(date).getMinutes();
-  var day=new Date(date).getDate();
-  var month=new Date(date).getMonth();
-  var year=new Date(date).getFullYear();
+  var date = Date.parse(created_at);
+  var hours = new Date(date).getHours();
+  var mins = new Date(date).getMinutes();
+  var day = new Date(date).getDate();
+  var month = new Date(date).getMonth();
+  var year = new Date(date).getFullYear();
   console.log(entities.hashtags);
 
   return (
