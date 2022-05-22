@@ -80,8 +80,9 @@ def response_modifier(respObj, sentiments):
 
     for tweet, sentiment in zip(respObj["tweets"], sentiments):
         tweet["sentiment"] = sentiment
-        temp = tweet_influence(respObj["user"], tweet, abs(sentiment))
-        tweet["influence"] = temp
+        temp = tweet_influence(respObj["user"], tweet, sentiment)
+        tweet["influence_polarity"] = temp
+        tweet["influence"] = abs(temp)
         if sentiment < 0: tifs[-1].append(temp)
         elif sentiment > 0: tifs[1].append(temp)
         else: tifs[0].append(temp)
