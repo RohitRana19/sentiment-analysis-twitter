@@ -77,20 +77,39 @@ def tweet_influence(user, tweet, sentiment):
 def response_modifier(respObj, sentiments):
     tweetObj = []
     tifs = {-1: [], 0: [], 1: []}
+    date_metrics = {}
+    negc, neuc, posc = 0, 0, 0
+    prevDate = str(respObj["tweets"][0]["created_at"]).split(" ")[0]
 
     for tweet, sentiment in zip(respObj["tweets"], sentiments):
         tweet["sentiment"] = sentiment
         temp = tweet_influence(respObj["user"], tweet, sentiment)
         tweet["influence_polarity"] = temp
         tweet["influence"] = abs(temp)
-        if sentiment < 0: tifs[-1].append(temp)
-        elif sentiment > 0: tifs[1].append(temp)
-        else: tifs[0].append(temp)
+        currDate = str(tweet["created_at"]).split(" ")[0]
+        if currDate != prevDate:
+            date_metrics[prevDate] = [posc, negc, neuc]
+            prevDate = currDate
+            negc, neuc, posc = 0, 0, 0
+
+        if sentiment > 0:
+            tifs[1].append(temp)
+            posc += 1
+        elif sentiment < 0:
+            tifs[-1].append(temp)
+            negc += 1
+        else:
+            tifs[0].append(temp)
+            neuc += 1
         tweetObj.append(tweet)
     respObj["tweets"] = tweetObj
     respObj["user"]["count"] = len(tweetObj)
-    respObj["user"]["influence"] = sum(tifs[1]) / len(tifs[1]) + sum(
-        tifs[-1]) / len(tifs[-1])
+    negs, neus, poss = sum(tifs[-1]), sum(tifs[0]), sum(tifs[1])
+    negl, neul, posl = len(tifs[-1]), len(tifs[0]), len(tifs[1])
+    respObj["user"]["sum_metrics"] = [negs, neus, poss]
+    respObj["user"]["len_metrics"] = [negl, neul, posl]
+    respObj["user"]["date_metrics"] = date_metrics
+    respObj["user"]["influence"] = (poss + negs) / (posl + negl)
     return respObj
 
 

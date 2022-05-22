@@ -30,7 +30,6 @@ function TweetCard({ tweetData }) {
   var day = new Date(date).getDate();
   var month = new Date(date).getMonth();
   var year = new Date(date).getFullYear();
-  console.log(entities.hashtags);
 
   return (
     <div className="card">
@@ -41,18 +40,28 @@ function TweetCard({ tweetData }) {
       </label>
       <hr />
       <div>
-        <table style={{width:"100%"}}>
+        <table style={{ width: "100%" }}>
           <tr>
-            <td style={{textAlign:"center"}}>Retweets</td>
-            <td style={{textAlign:"center"}}>Likes</td>
-            <td style={{textAlign:"center"}}>Sentiment</td>
-            <td style={{textAlign:"center"}}>Influence</td>
+            <td style={{ textAlign: "center" }}>Retweets</td>
+            <td style={{ textAlign: "center" }}>Likes</td>
+            <td style={{ textAlign: "center" }}>Sentiment</td>
+            <td style={{ textAlign: "center" }}>Influence</td>
           </tr>
           <tr>
             <th>{retweet_count}</th>
             <th>{favorite_count}</th>
-            <th style={sentiment>0?{backgroundColor:"green",color:"white"}:sentiment===0?{backgroundColor:"yellow"}:{backgroundColor:"red"}}>{sentiment}</th>
-            <th>{influence===0?0:influence.toFixed(2)}</th>
+            <th
+              style={
+                sentiment > 0
+                  ? { backgroundColor: "#3dd19b", color: "white" }
+                  : sentiment === 0
+                  ? { backgroundColor: "#f7d474", color: "white" }
+                  : { backgroundColor: "#fc6060", color: "white" }
+              }
+            >
+              {Math.abs(sentiment)}
+            </th>
+            <th>{influence === 0 ? 0 : influence.toFixed(2)}</th>
           </tr>
         </table>
       </div>
