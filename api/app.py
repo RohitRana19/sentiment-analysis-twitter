@@ -7,6 +7,10 @@ app = Flask(__name__)
 CORS(app)
 
 
+@app.route("/trial_run/<name>/<int:count>")
+def trial_run(name, count):
+    return get_from_trial(name, count)
+
 @app.route("/screen_name/<name>/<int:count>")
 def by_screen_name(name, count):
     return get_by_screen_name(name, count)

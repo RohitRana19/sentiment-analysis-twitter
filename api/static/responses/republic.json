@@ -1,0 +1,1966 @@
+{
+  "user": {
+    "id_str": "811972460560019456",
+    "name": "Republic",
+    "screen_name": "republic",
+    "location": "Mumbai, India",
+    "description": "Official handle of the Republic Media Network. DIGITAL. TV. MEDIA | Subscribe to Telegram here - https://t.co/CWl0t65nuY",
+    "followers_count": 2732867,
+    "friends_count": 5,
+    "favourites_count": 0,
+    "listed_count": 2507,
+    "created_at": "2016-12-22 16:31:35+00:00",
+    "verified": true,
+    "statuses_count": 483640,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1526956913078194178/Q0uCWWTh_normal.jpg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ChR6OneZSS",
+            "expanded_url": "http://www.republicworld.com",
+            "display_url": "republicworld.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/CWl0t65nuY",
+            "expanded_url": "http://t.me/RepublicLive",
+            "display_url": "t.me/RepublicLive",
+            "indices": [97, 120]
+          }
+        ]
+      }
+    }
+  },
+  "tweets": [
+    {
+      "created_at": "2022-05-22 15:57:19+00:00",
+      "id_str": "1528404650768142337",
+      "text": "AAP MLA Amanatullah Khan sends defamation notice to Delhi Police; seeks apology https://t.co/dp4pey5hRc",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dp4pey5hRc",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/aap-mla-amanatullah-khan-sends-defamation-notice-to-delhi-police-seeks-apology-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [80, 103]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 29
+    },
+    {
+      "created_at": "2022-05-22 15:36:36+00:00",
+      "id_str": "1528399437944737793",
+      "text": "#RespectTheCourts | The question is how do we deal with our history and undo the entire history?: Prof. DK Giri, Po\u2026 https://t.co/Yel0pngt1w",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Yel0pngt1w",
+            "expanded_url": "https://twitter.com/i/web/status/1528399437944737793",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 7,
+      "favorite_count": 23
+    },
+    {
+      "created_at": "2022-05-22 15:35:58+00:00",
+      "id_str": "1528399275759177729",
+      "text": "Uttarakhand: 57 pilgrims died during Char Dham Yatra since pilgrimage began on May 3 https://t.co/VzJiFGjvEm",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VzJiFGjvEm",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/uttarakhand-57-pilgrims-died-during-char-dham-yatra-since-pilgrimage-began-on-may-3-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [85, 108]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 14
+    },
+    {
+      "created_at": "2022-05-22 15:35:42+00:00",
+      "id_str": "1528399209065758720",
+      "text": "#RespectTheCourts | Today, if you are putting a blame on either side, you must have concrete evidence: Touseef Ahme\u2026 https://t.co/THNxxaZTr7",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/THNxxaZTr7",
+            "expanded_url": "https://twitter.com/i/web/status/1528399209065758720",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 13
+    },
+    {
+      "created_at": "2022-05-22 15:29:13+00:00",
+      "id_str": "1528397577019961346",
+      "text": "North Korea claims 'positive trend' in COVID spread; yet to reply to Biden's vaccine offer https://t.co/teiaeDMyO5",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/teiaeDMyO5",
+            "expanded_url": "https://www.republicworld.com/world-news/rest-of-the-world-news/north-korea-claims-positive-trend-in-covid-spread-yet-to-reply-to-bidens-vaccine-offer-articleshow.html",
+            "display_url": "republicworld.com/world-news/res\u2026",
+            "indices": [91, 114]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 8
+    },
+    {
+      "created_at": "2022-05-22 15:27:21+00:00",
+      "id_str": "1528397107711082500",
+      "text": "#RespectTheCourts | The way Farm Laws were repealed, in the similar manner Places of Worship Act can be repealed. T\u2026 https://t.co/Rp1rPZ4mYy",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rp1rPZ4mYy",
+            "expanded_url": "https://twitter.com/i/web/status/1528397107711082500",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 26,
+      "favorite_count": 83
+    },
+    {
+      "created_at": "2022-05-22 15:25:49+00:00",
+      "id_str": "1528396722787225603",
+      "text": "#RespectTheCourts | Supreme Court rightly transferred the Gyanvapi case to District judge. The actions of invaders\u2026 https://t.co/2qUEzLARh8",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2qUEzLARh8",
+            "expanded_url": "https://twitter.com/i/web/status/1528396722787225603",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 15:21:18+00:00",
+      "id_str": "1528395587342811138",
+      "text": "Speedster Umran Malik's father speaks about his son's maiden Team India call up https://t.co/BM5OYEAyDE",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BM5OYEAyDE",
+            "expanded_url": "https://www.republicworld.com/sports-news/cricket-news/speedster-umran-maliks-father-speaks-about-his-sons-maiden-team-india-call-up-articleshow.html",
+            "display_url": "republicworld.com/sports-news/cr\u2026",
+            "indices": [80, 103]
+          }
+        ]
+      },
+      "retweet_count": 1,
+      "favorite_count": 18
+    },
+    {
+      "created_at": "2022-05-22 15:16:46+00:00",
+      "id_str": "1528394444873281536",
+      "text": "#RespectTheCourts | Civilizational expression of Indian people is coming out and this has nothing to do with BJP or\u2026 https://t.co/12YsuowiR9",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/12YsuowiR9",
+            "expanded_url": "https://twitter.com/i/web/status/1528394444873281536",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 9,
+      "favorite_count": 21
+    },
+    {
+      "created_at": "2022-05-22 15:15:28+00:00",
+      "id_str": "1528394118602403841",
+      "text": "#EXCLUSIVE | 'India an essential country on any world table today': Envoy to Japan ahead of Quad meet https://t.co/onb4JkhyMd",
+      "entities": {
+        "hashtags": [{ "text": "EXCLUSIVE", "indices": [0, 10] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/onb4JkhyMd",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/india-an-essential-country-on-any-world-table-today-envoy-to-japan-ahead-of-quad-meet-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [102, 125]
+          }
+        ]
+      },
+      "retweet_count": 8,
+      "favorite_count": 15
+    },
+    {
+      "created_at": "2022-05-22 15:11:45+00:00",
+      "id_str": "1528393180793942017",
+      "text": "#RespectTheCourts | Who has the audacity to disturb the Supreme Court? Constitution has given right to citizens to\u2026 https://t.co/RiJqcVeQvN",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RiJqcVeQvN",
+            "expanded_url": "https://twitter.com/i/web/status/1528393180793942017",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 11
+    },
+    {
+      "created_at": "2022-05-22 15:11:24+00:00",
+      "id_str": "1528393095762821120",
+      "text": "#RespectTheCourts | Today, if you are putting a blame on either side, you must have concrete evidence: Touseef Ahme\u2026 https://t.co/brsf5ss4ej",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/brsf5ss4ej",
+            "expanded_url": "https://twitter.com/i/web/status/1528393095762821120",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 9
+    },
+    {
+      "created_at": "2022-05-22 15:05:04+00:00",
+      "id_str": "1528391501700829184",
+      "text": "#RespectTheCourts | The question is how do we deal with our history and undo the entire history?: Prof. DK Giri, Po\u2026 https://t.co/Jl1qhkwfOa",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jl1qhkwfOa",
+            "expanded_url": "https://twitter.com/i/web/status/1528391501700829184",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 9,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 15:03:22+00:00",
+      "id_str": "1528391073135214592",
+      "text": "#RespectTheCourts | Nobody is above the law. Courts should not be intimidated and their decision must be obeyed:\u2026 https://t.co/N6Q0oiaY3W",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/N6Q0oiaY3W",
+            "expanded_url": "https://twitter.com/i/web/status/1528391073135214592",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [114, 137]
+          }
+        ]
+      },
+      "retweet_count": 10,
+      "favorite_count": 39
+    },
+    {
+      "created_at": "2022-05-22 15:01:26+00:00",
+      "id_str": "1528390586679857152",
+      "text": "#RespectTheCourts | Supreme Court rightly transferred the Gyanvapi case to District judge. The actions of invaders\u2026 https://t.co/J67cKkUABi",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J67cKkUABi",
+            "expanded_url": "https://twitter.com/i/web/status/1528390586679857152",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 10,
+      "favorite_count": 35
+    },
+    {
+      "created_at": "2022-05-22 14:58:37+00:00",
+      "id_str": "1528389877158785024",
+      "text": "#RespectTheCourts | Civilizational expression of Indian people is coming out and this has nothing to do with BJP or\u2026 https://t.co/8yWs1XpvGB",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8yWs1XpvGB",
+            "expanded_url": "https://twitter.com/i/web/status/1528389877158785024",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 23
+    },
+    {
+      "created_at": "2022-05-22 14:57:31+00:00",
+      "id_str": "1528389599831400448",
+      "text": "#RespectTheCourts | Your faith in Constitution and judiciary is not a tool of convenience. If you believe in Places\u2026 https://t.co/YSlCnghRnh",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YSlCnghRnh",
+            "expanded_url": "https://twitter.com/i/web/status/1528389599831400448",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 19,
+      "favorite_count": 52
+    },
+    {
+      "created_at": "2022-05-22 14:54:32+00:00",
+      "id_str": "1528388850925838337",
+      "text": "#RespectTheCourts | Who has the audacity to disturb the Supreme Court? Constitution has given right to citizens to\u2026 https://t.co/HauvQADgYD",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HauvQADgYD",
+            "expanded_url": "https://twitter.com/i/web/status/1528388850925838337",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 16
+    },
+    {
+      "created_at": "2022-05-22 14:49:37+00:00",
+      "id_str": "1528387614352769026",
+      "text": "#RespectTheCourts | BJP and VHP do not follow the Rule of Law. We follow the Constitution: @warispathan, National S\u2026 https://t.co/7SvPf29WZJ",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "warispathan",
+            "name": "Waris Pathan",
+            "id": 2912585790,
+            "id_str": "2912585790",
+            "indices": [91, 103]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7SvPf29WZJ",
+            "expanded_url": "https://twitter.com/i/web/status/1528387614352769026",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 15
+    },
+    {
+      "created_at": "2022-05-22 15:57:19+00:00",
+      "id_str": "1528404650768142337",
+      "text": "AAP MLA Amanatullah Khan sends defamation notice to Delhi Police; seeks apology https://t.co/dp4pey5hRc",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dp4pey5hRc",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/aap-mla-amanatullah-khan-sends-defamation-notice-to-delhi-police-seeks-apology-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [80, 103]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 29
+    },
+    {
+      "created_at": "2022-05-22 15:36:36+00:00",
+      "id_str": "1528399437944737793",
+      "text": "#RespectTheCourts | The question is how do we deal with our history and undo the entire history?: Prof. DK Giri, Po\u2026 https://t.co/Yel0pngt1w",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Yel0pngt1w",
+            "expanded_url": "https://twitter.com/i/web/status/1528399437944737793",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 7,
+      "favorite_count": 23
+    },
+    {
+      "created_at": "2022-05-22 15:35:58+00:00",
+      "id_str": "1528399275759177729",
+      "text": "Uttarakhand: 57 pilgrims died during Char Dham Yatra since pilgrimage began on May 3 https://t.co/VzJiFGjvEm",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VzJiFGjvEm",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/uttarakhand-57-pilgrims-died-during-char-dham-yatra-since-pilgrimage-began-on-may-3-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [85, 108]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 14
+    },
+    {
+      "created_at": "2022-05-22 15:35:42+00:00",
+      "id_str": "1528399209065758720",
+      "text": "#RespectTheCourts | Today, if you are putting a blame on either side, you must have concrete evidence: Touseef Ahme\u2026 https://t.co/THNxxaZTr7",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/THNxxaZTr7",
+            "expanded_url": "https://twitter.com/i/web/status/1528399209065758720",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 13
+    },
+    {
+      "created_at": "2022-05-22 15:29:13+00:00",
+      "id_str": "1528397577019961346",
+      "text": "North Korea claims 'positive trend' in COVID spread; yet to reply to Biden's vaccine offer https://t.co/teiaeDMyO5",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/teiaeDMyO5",
+            "expanded_url": "https://www.republicworld.com/world-news/rest-of-the-world-news/north-korea-claims-positive-trend-in-covid-spread-yet-to-reply-to-bidens-vaccine-offer-articleshow.html",
+            "display_url": "republicworld.com/world-news/res\u2026",
+            "indices": [91, 114]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 8
+    },
+    {
+      "created_at": "2022-05-22 15:27:21+00:00",
+      "id_str": "1528397107711082500",
+      "text": "#RespectTheCourts | The way Farm Laws were repealed, in the similar manner Places of Worship Act can be repealed. T\u2026 https://t.co/Rp1rPZ4mYy",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rp1rPZ4mYy",
+            "expanded_url": "https://twitter.com/i/web/status/1528397107711082500",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 26,
+      "favorite_count": 83
+    },
+    {
+      "created_at": "2022-05-22 15:25:49+00:00",
+      "id_str": "1528396722787225603",
+      "text": "#RespectTheCourts | Supreme Court rightly transferred the Gyanvapi case to District judge. The actions of invaders\u2026 https://t.co/2qUEzLARh8",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2qUEzLARh8",
+            "expanded_url": "https://twitter.com/i/web/status/1528396722787225603",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 15:21:18+00:00",
+      "id_str": "1528395587342811138",
+      "text": "Speedster Umran Malik's father speaks about his son's maiden Team India call up https://t.co/BM5OYEAyDE",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BM5OYEAyDE",
+            "expanded_url": "https://www.republicworld.com/sports-news/cricket-news/speedster-umran-maliks-father-speaks-about-his-sons-maiden-team-india-call-up-articleshow.html",
+            "display_url": "republicworld.com/sports-news/cr\u2026",
+            "indices": [80, 103]
+          }
+        ]
+      },
+      "retweet_count": 1,
+      "favorite_count": 18
+    },
+    {
+      "created_at": "2022-05-22 15:16:46+00:00",
+      "id_str": "1528394444873281536",
+      "text": "#RespectTheCourts | Civilizational expression of Indian people is coming out and this has nothing to do with BJP or\u2026 https://t.co/12YsuowiR9",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/12YsuowiR9",
+            "expanded_url": "https://twitter.com/i/web/status/1528394444873281536",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 9,
+      "favorite_count": 21
+    },
+    {
+      "created_at": "2022-05-22 15:15:28+00:00",
+      "id_str": "1528394118602403841",
+      "text": "#EXCLUSIVE | 'India an essential country on any world table today': Envoy to Japan ahead of Quad meet https://t.co/onb4JkhyMd",
+      "entities": {
+        "hashtags": [{ "text": "EXCLUSIVE", "indices": [0, 10] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/onb4JkhyMd",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/india-an-essential-country-on-any-world-table-today-envoy-to-japan-ahead-of-quad-meet-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [102, 125]
+          }
+        ]
+      },
+      "retweet_count": 8,
+      "favorite_count": 15
+    },
+    {
+      "created_at": "2022-05-22 15:11:45+00:00",
+      "id_str": "1528393180793942017",
+      "text": "#RespectTheCourts | Who has the audacity to disturb the Supreme Court? Constitution has given right to citizens to\u2026 https://t.co/RiJqcVeQvN",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RiJqcVeQvN",
+            "expanded_url": "https://twitter.com/i/web/status/1528393180793942017",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 11
+    },
+    {
+      "created_at": "2022-05-22 15:11:24+00:00",
+      "id_str": "1528393095762821120",
+      "text": "#RespectTheCourts | Today, if you are putting a blame on either side, you must have concrete evidence: Touseef Ahme\u2026 https://t.co/brsf5ss4ej",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/brsf5ss4ej",
+            "expanded_url": "https://twitter.com/i/web/status/1528393095762821120",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 9
+    },
+    {
+      "created_at": "2022-05-22 15:05:04+00:00",
+      "id_str": "1528391501700829184",
+      "text": "#RespectTheCourts | The question is how do we deal with our history and undo the entire history?: Prof. DK Giri, Po\u2026 https://t.co/Jl1qhkwfOa",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jl1qhkwfOa",
+            "expanded_url": "https://twitter.com/i/web/status/1528391501700829184",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 9,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 15:03:22+00:00",
+      "id_str": "1528391073135214592",
+      "text": "#RespectTheCourts | Nobody is above the law. Courts should not be intimidated and their decision must be obeyed:\u2026 https://t.co/N6Q0oiaY3W",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/N6Q0oiaY3W",
+            "expanded_url": "https://twitter.com/i/web/status/1528391073135214592",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [114, 137]
+          }
+        ]
+      },
+      "retweet_count": 10,
+      "favorite_count": 39
+    },
+    {
+      "created_at": "2022-05-22 15:01:26+00:00",
+      "id_str": "1528390586679857152",
+      "text": "#RespectTheCourts | Supreme Court rightly transferred the Gyanvapi case to District judge. The actions of invaders\u2026 https://t.co/J67cKkUABi",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J67cKkUABi",
+            "expanded_url": "https://twitter.com/i/web/status/1528390586679857152",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 10,
+      "favorite_count": 35
+    },
+    {
+      "created_at": "2022-05-22 14:58:37+00:00",
+      "id_str": "1528389877158785024",
+      "text": "#RespectTheCourts | Civilizational expression of Indian people is coming out and this has nothing to do with BJP or\u2026 https://t.co/8yWs1XpvGB",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8yWs1XpvGB",
+            "expanded_url": "https://twitter.com/i/web/status/1528389877158785024",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 23
+    },
+    {
+      "created_at": "2022-05-22 14:57:31+00:00",
+      "id_str": "1528389599831400448",
+      "text": "#RespectTheCourts | Your faith in Constitution and judiciary is not a tool of convenience. If you believe in Places\u2026 https://t.co/YSlCnghRnh",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YSlCnghRnh",
+            "expanded_url": "https://twitter.com/i/web/status/1528389599831400448",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 19,
+      "favorite_count": 52
+    },
+    {
+      "created_at": "2022-05-22 14:54:32+00:00",
+      "id_str": "1528388850925838337",
+      "text": "#RespectTheCourts | Who has the audacity to disturb the Supreme Court? Constitution has given right to citizens to\u2026 https://t.co/HauvQADgYD",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HauvQADgYD",
+            "expanded_url": "https://twitter.com/i/web/status/1528388850925838337",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 16
+    },
+    {
+      "created_at": "2022-05-22 14:49:37+00:00",
+      "id_str": "1528387614352769026",
+      "text": "#RespectTheCourts | BJP and VHP do not follow the Rule of Law. We follow the Constitution: @warispathan, National S\u2026 https://t.co/7SvPf29WZJ",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "warispathan",
+            "name": "Waris Pathan",
+            "id": 2912585790,
+            "id_str": "2912585790",
+            "indices": [91, 103]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7SvPf29WZJ",
+            "expanded_url": "https://twitter.com/i/web/status/1528387614352769026",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 15
+    },
+    {
+      "created_at": "2022-05-22 14:46:28+00:00",
+      "id_str": "1528386819720904704",
+      "text": "#RespectTheCourts | Nobody is above the law. Courts should not be intimidated and their decision must be obeyed:\u2026 https://t.co/OMceizUYOm",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OMceizUYOm",
+            "expanded_url": "https://twitter.com/i/web/status/1528386819720904704",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [114, 137]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 12
+    },
+    {
+      "created_at": "2022-05-22 14:44:49+00:00",
+      "id_str": "1528386402979053570",
+      "text": "From Shaheen Bagh to Gyanvapi, is disrespect for courts becoming a pattern? \n\nTune in to watch The Debate with Arna\u2026 https://t.co/1KjXnPMjGs",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1KjXnPMjGs",
+            "expanded_url": "https://twitter.com/i/web/status/1528386402979053570",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 14,
+      "favorite_count": 45
+    },
+    {
+      "created_at": "2022-05-22 14:43:55+00:00",
+      "id_str": "1528386179456188416",
+      "text": "#RespectTheCourts | Your faith in Constitution and judiciary is not a tool of convenience. If you believe in Places\u2026 https://t.co/ecfsKZyglY",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ecfsKZyglY",
+            "expanded_url": "https://twitter.com/i/web/status/1528386179456188416",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 19,
+      "favorite_count": 54
+    },
+    {
+      "created_at": "2022-05-22 14:42:47+00:00",
+      "id_str": "1528385891827580929",
+      "text": "From Shaheen Bagh to Gyanvapi, is disrespect for courts becoming a pattern? \n\nTune in to watch The Debate with Arna\u2026 https://t.co/iXShxsPnZJ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iXShxsPnZJ",
+            "expanded_url": "https://twitter.com/i/web/status/1528385891827580929",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 6,
+      "favorite_count": 20
+    },
+    {
+      "created_at": "2022-05-22 14:40:51+00:00",
+      "id_str": "1528385406626312192",
+      "text": "From Shaheen Bagh to Gyanvapi, is disrespect for courts becoming a pattern? \n\nTune in to watch The Debate with Arna\u2026 https://t.co/vhWorNsbEW",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vhWorNsbEW",
+            "expanded_url": "https://twitter.com/i/web/status/1528385406626312192",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 21
+    },
+    {
+      "created_at": "2022-05-22 14:39:35+00:00",
+      "id_str": "1528385086814851072",
+      "text": "#RespectTheCourts | BJP and VHP do not follow the Rule of Law. We follow the Constitution: @warispathan, National S\u2026 https://t.co/QuOaHMW4C2",
+      "entities": {
+        "hashtags": [{ "text": "RespectTheCourts", "indices": [0, 17] }],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "warispathan",
+            "name": "Waris Pathan",
+            "id": 2912585790,
+            "id_str": "2912585790",
+            "indices": [91, 103]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QuOaHMW4C2",
+            "expanded_url": "https://twitter.com/i/web/status/1528385086814851072",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 13,
+      "favorite_count": 41
+    },
+    {
+      "created_at": "2022-05-22 14:31:39+00:00",
+      "id_str": "1528383089340469248",
+      "text": "From Shaheen Bagh to Gyanvapi, is disrespect for courts becoming a pattern? \n\nTune in to watch The Debate with Arna\u2026 https://t.co/2FR8u3oOfq",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2FR8u3oOfq",
+            "expanded_url": "https://twitter.com/i/web/status/1528383089340469248",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 11,
+      "favorite_count": 44
+    },
+    {
+      "created_at": "2022-05-22 14:28:48+00:00",
+      "id_str": "1528382375243169793",
+      "text": "'Not only one Shivling...' | 'Gyanvapi Mosque compex must be handed over to Hindus', Mahant Shiv Pandey tells Repub\u2026 https://t.co/xbUyiUpd2B",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xbUyiUpd2B",
+            "expanded_url": "https://twitter.com/i/web/status/1528382375243169793",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 6,
+      "favorite_count": 44
+    },
+    {
+      "created_at": "2022-05-22 14:27:08+00:00",
+      "id_str": "1528381953497518080",
+      "text": "Tauqeer Raza sparks row by drawing India-Sri Lanka comparison; 'on edge of being bankrupt' https://t.co/ytagcrPtdU",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ytagcrPtdU",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/tauqeer-raza-sparks-row-by-drawing-india-sri-lanka-comparison-on-edge-of-being-bankrupt-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [91, 114]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 6
+    },
+    {
+      "created_at": "2022-05-22 13:36:15+00:00",
+      "id_str": "1528369150875340800",
+      "text": "Pramod Sawant upholds Centre's fuel price reduction; 'Non-BJP ruled states should follow' https://t.co/nvppUeo8Lj",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nvppUeo8Lj",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/pramod-sawant-upholds-centres-fuel-price-reduction-non-bjp-ruled-states-should-follow-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [90, 113]
+          }
+        ]
+      },
+      "retweet_count": 6,
+      "favorite_count": 45
+    },
+    {
+      "created_at": "2022-05-22 13:34:18+00:00",
+      "id_str": "1528368660095827969",
+      "text": "#BREAKING | Tauqeer Raza sparks row again, draws India-Sri Lanka comparison.\n\nTune in to watch non-stop updates her\u2026 https://t.co/pIrBMEj5Pz",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pIrBMEj5Pz",
+            "expanded_url": "https://twitter.com/i/web/status/1528368660095827969",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 16
+    },
+    {
+      "created_at": "2022-05-22 13:21:23+00:00",
+      "id_str": "1528365408491048962",
+      "text": "#BREAKING | Tauqeer Raza sparks row again, draws India-Sri Lanka comparison.\n\nTune in to watch non-stop updates her\u2026 https://t.co/0DqItoNQpO",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0DqItoNQpO",
+            "expanded_url": "https://twitter.com/i/web/status/1528365408491048962",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 13:04:34+00:00",
+      "id_str": "1528361177188814848",
+      "text": "Assam violence: Eye-witness claims trader declared dead in hospital; 'He was intoxicated' https://t.co/wHYAsO8XC3",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wHYAsO8XC3",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/assam-violence-eye-witness-claims-trader-declared-dead-in-hospital-he-was-intoxicated-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [90, 113]
+          }
+        ]
+      },
+      "retweet_count": 10,
+      "favorite_count": 34
+    },
+    {
+      "created_at": "2022-05-22 12:58:11+00:00",
+      "id_str": "1528359567956246530",
+      "text": "#BREAKING | West Bengal: Arjun Singh briefs media after joining TMC.\n\nTune in to watch non-stop updates here-\u2026 https://t.co/y8beoXPCpg",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/y8beoXPCpg",
+            "expanded_url": "https://twitter.com/i/web/status/1528359567956246530",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [111, 134]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 13
+    },
+    {
+      "created_at": "2022-05-22 12:54:30+00:00",
+      "id_str": "1528358642432745472",
+      "text": "#BREAKING | West Bengal: Arjun Singh hits out at BJP's state leadership after joining TMC.\n\nTune in to watch non-st\u2026 https://t.co/bLCcuhUrry",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bLCcuhUrry",
+            "expanded_url": "https://twitter.com/i/web/status/1528358642432745472",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 22
+    },
+    {
+      "created_at": "2022-05-22 12:52:01+00:00",
+      "id_str": "1528358016084738048",
+      "text": "#BREAKING | West Bengal: Arjun Singh joins TMC, MP Saugata Roy welcomes his induction to the party.\n\nTune in to wat\u2026 https://t.co/sVA4xEa6r4",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sVA4xEa6r4",
+            "expanded_url": "https://twitter.com/i/web/status/1528358016084738048",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 13
+    },
+    {
+      "created_at": "2022-05-22 12:51:51+00:00",
+      "id_str": "1528357976054308866",
+      "text": "#BREAKING | West Bengal: Arjun Singh joins TMC after complaining 'I am not allowed to work properly in BJP'. \n\nTune\u2026 https://t.co/MEMUsg8wYd",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MEMUsg8wYd",
+            "expanded_url": "https://twitter.com/i/web/status/1528357976054308866",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 11
+    },
+    {
+      "created_at": "2022-05-22 12:42:32+00:00",
+      "id_str": "1528355630431588354",
+      "text": "West Bengal: BJP MP Arjun Singh joins TMC in presence of Abhishek Banerjee https://t.co/hXvJH9gUM0",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hXvJH9gUM0",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/west-bengal-bjp-mp-arjun-singh-joins-tmc-in-presence-of-abhishek-banerjee-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [75, 98]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 26
+    },
+    {
+      "created_at": "2022-05-22 12:41:47+00:00",
+      "id_str": "1528355441331388419",
+      "text": "Lok Sabha Committee to record Navneet Rana's allegations, in-person hearing tomorrow https://t.co/VWoYyWBEXR",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VWoYyWBEXR",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/lok-sabha-committee-to-record-navneet-ranas-allegations-in-person-hearing-tomorrow-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [85, 108]
+          }
+        ]
+      },
+      "retweet_count": 7,
+      "favorite_count": 51
+    },
+    {
+      "created_at": "2022-05-22 12:40:43+00:00",
+      "id_str": "1528355175198785537",
+      "text": "#BREAKING | 'Politics cannot be done through Facebook': Arjun Singh hits out at BJP after joining TMC.\n\nTune in to\u2026 https://t.co/9DpYrLyXNj",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9DpYrLyXNj",
+            "expanded_url": "https://twitter.com/i/web/status/1528355175198785537",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 43
+    },
+    {
+      "created_at": "2022-05-22 12:35:36+00:00",
+      "id_str": "1528353887610351622",
+      "text": "#BREAKING | West Bengal: Arjun Singh hits out at BJP's state leadership after joining TMC.\n\nTune in to watch non-st\u2026 https://t.co/lfhRW77zlR",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lfhRW77zlR",
+            "expanded_url": "https://twitter.com/i/web/status/1528353887610351622",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 1,
+      "favorite_count": 14
+    },
+    {
+      "created_at": "2022-05-22 12:33:52+00:00",
+      "id_str": "1528353448076652546",
+      "text": "#BREAKING | West Bengal: Arjun Singh briefs media after joining TMC.\n\nTune in to watch non-stop updates here-\u2026 https://t.co/955tjXHZ1c",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/955tjXHZ1c",
+            "expanded_url": "https://twitter.com/i/web/status/1528353448076652546",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [111, 134]
+          }
+        ]
+      },
+      "retweet_count": 1,
+      "favorite_count": 7
+    },
+    {
+      "created_at": "2022-05-22 12:26:17+00:00",
+      "id_str": "1528351539886178304",
+      "text": "Assam: Congress forms fact-finding committee to probe Batadroba violence https://t.co/XIZZ8M80Vl",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XIZZ8M80Vl",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/assam-congress-forms-fact-finding-committee-to-probe-batadroba-violence-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [73, 96]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 11
+    },
+    {
+      "created_at": "2022-05-22 12:23:25+00:00",
+      "id_str": "1528350819900588032",
+      "text": "#EXCLUSIVE | Indian ambassador to Japan Sanjay Verma speaks to Republic's Abhishek Kapoor on Indo-Japan relations,\u2026 https://t.co/s82wbo6tea",
+      "entities": {
+        "hashtags": [{ "text": "EXCLUSIVE", "indices": [0, 10] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s82wbo6tea",
+            "expanded_url": "https://twitter.com/i/web/status/1528350819900588032",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 21
+    },
+    {
+      "created_at": "2022-05-22 12:21:02+00:00",
+      "id_str": "1528350219536334848",
+      "text": "#BREAKING | West Bengal: Arjun Singh joins TMC, MP Saugata Roy welcomes his induction to the party.\n\nTune in to wat\u2026 https://t.co/1fQQkmJ5Ed",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1fQQkmJ5Ed",
+            "expanded_url": "https://twitter.com/i/web/status/1528350219536334848",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 12:18:54+00:00",
+      "id_str": "1528349683953078273",
+      "text": "#BREAKING | West Bengal: Arjun Singh joins TMC after complaining 'I am not allowed to work properly in BJP'. \n\nTune\u2026 https://t.co/10tTFIa2qj",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/10tTFIa2qj",
+            "expanded_url": "https://twitter.com/i/web/status/1528349683953078273",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 15
+    },
+    {
+      "created_at": "2022-05-22 12:17:58+00:00",
+      "id_str": "1528349448426127360",
+      "text": "#EXCLUSIVE | Indian ambassador to Japan Sanjay Verma speaks to Republic's Abhishek Kapoor on PM Modi's visit to Jap\u2026 https://t.co/IzxpQeYnGH",
+      "entities": {
+        "hashtags": [{ "text": "EXCLUSIVE", "indices": [0, 10] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IzxpQeYnGH",
+            "expanded_url": "https://twitter.com/i/web/status/1528349448426127360",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 21
+    },
+    {
+      "created_at": "2022-05-22 12:12:42+00:00",
+      "id_str": "1528348123625844737",
+      "text": "#EXCLUSIVE | Indian ambassador to Japan Sanjay Verma speaks to Republic's Abhishek Kapoor on Indo-Japan relations,\u2026 https://t.co/LwCt2zv8he",
+      "entities": {
+        "hashtags": [{ "text": "EXCLUSIVE", "indices": [0, 10] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LwCt2zv8he",
+            "expanded_url": "https://twitter.com/i/web/status/1528348123625844737",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 35
+    },
+    {
+      "created_at": "2022-05-22 12:10:23+00:00",
+      "id_str": "1528347541095727105",
+      "text": "#EXCLUSIVE | Indian ambassador to Japan Sanjay Verma speaks to Republic's Abhishek Kapoor on PM Modi's visit to Jap\u2026 https://t.co/y5X3o13fwm",
+      "entities": {
+        "hashtags": [{ "text": "EXCLUSIVE", "indices": [0, 10] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/y5X3o13fwm",
+            "expanded_url": "https://twitter.com/i/web/status/1528347541095727105",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 0,
+      "favorite_count": 20
+    },
+    {
+      "created_at": "2022-05-22 12:05:06+00:00",
+      "id_str": "1528346209366478848",
+      "text": "#BREAKING | Massive revelation in Assam violence: Eye-witness claims accused was declared dead in hospital.\n\nTune i\u2026 https://t.co/XjuI38PrYI",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XjuI38PrYI",
+            "expanded_url": "https://twitter.com/i/web/status/1528346209366478848",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 8,
+      "favorite_count": 22
+    },
+    {
+      "created_at": "2022-05-22 11:57:41+00:00",
+      "id_str": "1528344342938910721",
+      "text": "#BREAKING | Massive revelation in Assam violence: Eye-witness claims accused was declared dead in hospital.\n\nTune i\u2026 https://t.co/xd5T12Kqv9",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xd5T12Kqv9",
+            "expanded_url": "https://twitter.com/i/web/status/1528344342938910721",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 7,
+      "favorite_count": 19
+    },
+    {
+      "created_at": "2022-05-22 11:46:27+00:00",
+      "id_str": "1528341516187738113",
+      "text": "#BREAKING | Assam: Congress forms fact-finding panel in Batadroba case.\n\nTune in to watch non-stop updates here-\u2026 https://t.co/tD2jzY1N5s",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tD2jzY1N5s",
+            "expanded_url": "https://twitter.com/i/web/status/1528341516187738113",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [114, 137]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 14
+    },
+    {
+      "created_at": "2022-05-22 11:36:16+00:00",
+      "id_str": "1528338952708575235",
+      "text": "J&amp;K: RFID to be installed in Mata Vaishno Devi shrine for emergencies &amp; pilgrims' safety https://t.co/rOOpQwSHej",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rOOpQwSHej",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/j-and-k-rfid-to-be-installed-in-mata-vaishno-devi-shrine-for-emergencies-and-pilgrims-safety-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [97, 120]
+          }
+        ]
+      },
+      "retweet_count": 10,
+      "favorite_count": 44
+    },
+    {
+      "created_at": "2022-05-22 11:33:40+00:00",
+      "id_str": "1528338298674245632",
+      "text": "#BREAKING |  BJP MP Arjun Singh meets Abhishek Banerjee ahead of his induction in TMC.\n\nTune in to watch non-stop u\u2026 https://t.co/o8TWICTauZ",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o8TWICTauZ",
+            "expanded_url": "https://twitter.com/i/web/status/1528338298674245632",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 16
+    },
+    {
+      "created_at": "2022-05-22 11:32:06+00:00",
+      "id_str": "1528337906431328256",
+      "text": "#BREAKING | Assam: Congress forms fact-finding panel in Batadroba case.\n\nTune in to watch non-stop updates here-\u2026 https://t.co/0siY7fN3Sj",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0siY7fN3Sj",
+            "expanded_url": "https://twitter.com/i/web/status/1528337906431328256",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [114, 137]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 28
+    },
+    {
+      "created_at": "2022-05-22 11:29:08+00:00",
+      "id_str": "1528337159287099393",
+      "text": "Nirmala Sitharaman sets record straight on Excise cut; compares UPA rule subsidy figures https://t.co/UEoCLM9s6d",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UEoCLM9s6d",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/nirmala-sitharaman-sets-record-straight-on-excise-cut-compares-upa-rule-subsidy-figures-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [89, 112]
+          }
+        ]
+      },
+      "retweet_count": 6,
+      "favorite_count": 54
+    },
+    {
+      "created_at": "2022-05-22 11:25:06+00:00",
+      "id_str": "1528336143518941184",
+      "text": "Outgoing Australian PM Morrison breaks down while addressing churchgoers in Sydney https://t.co/tsI9V00T65",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tsI9V00T65",
+            "expanded_url": "https://www.republicworld.com/world-news/australia/outgoing-australian-pm-morrison-breaks-down-while-addressing-churchgoers-in-sydney-articleshow.html",
+            "display_url": "republicworld.com/world-news/aus\u2026",
+            "indices": [83, 106]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 26
+    },
+    {
+      "created_at": "2022-05-22 11:10:21+00:00",
+      "id_str": "1528332431216246786",
+      "text": "#BREAKING |  BJP MP Arjun Singh meets Abhishek Banerjee ahead of his induction in TMC.\n\nTune in to watch non-stop u\u2026 https://t.co/OnpUAAPzew",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OnpUAAPzew",
+            "expanded_url": "https://twitter.com/i/web/status/1528332431216246786",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 7
+    },
+    {
+      "created_at": "2022-05-22 11:04:40+00:00",
+      "id_str": "1528331001877135360",
+      "text": "#BREAKING | SCOOP: BJP MP Arjun Singh to meet Abhishek Banerjee ahead of his induction in TMC.\n\nTune in to watch no\u2026 https://t.co/WgHJVqwTxg",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WgHJVqwTxg",
+            "expanded_url": "https://twitter.com/i/web/status/1528331001877135360",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 7,
+      "favorite_count": 21
+    },
+    {
+      "created_at": "2022-05-22 11:03:18+00:00",
+      "id_str": "1528330656807550976",
+      "text": "#LIVE | As PM Modi is set to complete 23 engagements in 40 hours of stay for Quad summit, Republic reports from Tok\u2026 https://t.co/xG7yqEXaZ4",
+      "entities": {
+        "hashtags": [{ "text": "LIVE", "indices": [0, 5] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xG7yqEXaZ4",
+            "expanded_url": "https://twitter.com/i/web/status/1528330656807550976",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 12,
+      "favorite_count": 39
+    },
+    {
+      "created_at": "2022-05-22 11:01:41+00:00",
+      "id_str": "1528330251096702977",
+      "text": "#BREAKING | All-out political war over fuel price reduction breaks out, Finance Minister Nirmala Sitharaman shares\u2026 https://t.co/INzhzsjwkg",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/INzhzsjwkg",
+            "expanded_url": "https://twitter.com/i/web/status/1528330251096702977",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 28
+    },
+    {
+      "created_at": "2022-05-22 11:01:24+00:00",
+      "id_str": "1528330181206999041",
+      "text": "#LIVE | BJP MP Arjun Singh reaches Abhishek Banerjee's office in Kolkata ahead of his induction in TMC.\n\nTune in to\u2026 https://t.co/hHIjEsmL6P",
+      "entities": {
+        "hashtags": [{ "text": "LIVE", "indices": [0, 5] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hHIjEsmL6P",
+            "expanded_url": "https://twitter.com/i/web/status/1528330181206999041",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 10
+    },
+    {
+      "created_at": "2022-05-22 10:58:53+00:00",
+      "id_str": "1528329548030701568",
+      "text": "#BREAKING | SCOOP: BJP MP Arjun Singh likely to join TMC today, to get key post in Bihar.\n\nTune in to watch non-sto\u2026 https://t.co/OJU5rjXQQ5",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OJU5rjXQQ5",
+            "expanded_url": "https://twitter.com/i/web/status/1528329548030701568",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 7
+    },
+    {
+      "created_at": "2022-05-22 10:58:49+00:00",
+      "id_str": "1528329527923036160",
+      "text": "HD Kumaraswamy slams CM Bommai over Davos visit; 'No one interested in B'luru development' https://t.co/5QJuiIssjQ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5QJuiIssjQ",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/hd-kumaraswamy-slams-cm-bommai-over-davos-visit-no-one-interested-in-bluru-development-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [91, 114]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 5
+    },
+    {
+      "created_at": "2022-05-22 10:56:39+00:00",
+      "id_str": "1528328984521748480",
+      "text": "#BREAKING |  BJP MP Arjun Singh likely to join TMC today, expected to get key post by the party.\n\nTune in to watch\u2026 https://t.co/TllMaWxwRa",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TllMaWxwRa",
+            "expanded_url": "https://twitter.com/i/web/status/1528328984521748480",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 9
+    },
+    {
+      "created_at": "2022-05-22 10:54:32+00:00",
+      "id_str": "1528328450406330369",
+      "text": "SP leader claims there's no 'Shivling' in Gyanvapi mosque; 'issue created for 2024 polls' https://t.co/ub42mJC8vs",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ub42mJC8vs",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/sp-leader-claims-theres-no-shivling-in-gyanvapi-mosque-issue-created-for-2024-polls-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [90, 113]
+          }
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 5
+    },
+    {
+      "created_at": "2022-05-22 10:50:07+00:00",
+      "id_str": "1528327341768056833",
+      "text": "#BREAKING | SCOOP: BJP MP Arjun Singh to meet Abhishek Banerjee ahead of his induction in TMC.\n\nTune in to watch no\u2026 https://t.co/DP2KDuPCUa",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DP2KDuPCUa",
+            "expanded_url": "https://twitter.com/i/web/status/1528327341768056833",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 1,
+      "favorite_count": 13
+    },
+    {
+      "created_at": "2022-05-22 10:47:24+00:00",
+      "id_str": "1528326654682365953",
+      "text": "#LIVE | As PM Modi is set to complete 23 engagements in 40 hours of stay for Quad summit, Republic reports from Tok\u2026 https://t.co/eG1eFJEeTs",
+      "entities": {
+        "hashtags": [{ "text": "LIVE", "indices": [0, 5] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eG1eFJEeTs",
+            "expanded_url": "https://twitter.com/i/web/status/1528326654682365953",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 6,
+      "favorite_count": 65
+    },
+    {
+      "created_at": "2022-05-22 10:45:28+00:00",
+      "id_str": "1528326169694707713",
+      "text": "Tamil Nadu's BJP unit threatens protests if DMK govt fails to cut fuel taxes within 72 hrs https://t.co/FQSlDubp0V",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FQSlDubp0V",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/tamil-nadus-bjp-unit-threatens-protests-if-dmk-govt-fails-to-cut-fuel-taxes-within-72-hrs-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [91, 114]
+          }
+        ]
+      },
+      "retweet_count": 112,
+      "favorite_count": 683
+    },
+    {
+      "created_at": "2022-05-22 10:42:17+00:00",
+      "id_str": "1528325367844737026",
+      "text": "#BREAKING | All-out political war over fuel price reduction breaks out, Finance Minister Nirmala Sitharaman shares\u2026 https://t.co/4K30zhSTfT",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4K30zhSTfT",
+            "expanded_url": "https://twitter.com/i/web/status/1528325367844737026",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [116, 139]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 25
+    },
+    {
+      "created_at": "2022-05-22 10:35:06+00:00",
+      "id_str": "1528323560758181888",
+      "text": "#BREAKING | SCOOP: BJP MP Arjun Singh likely to join TMC today, to get key post in Bihar.\n\nTune in to watch non-sto\u2026 https://t.co/I4FHl92zMA",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/I4FHl92zMA",
+            "expanded_url": "https://twitter.com/i/web/status/1528323560758181888",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 2,
+      "favorite_count": 15
+    },
+    {
+      "created_at": "2022-05-22 10:33:00+00:00",
+      "id_str": "1528323030832775169",
+      "text": "Azam Khan &amp; Shivpal Yadav skip Samajwadi Party's MLAs meet, hint at possible unrest https://t.co/pmbEmUnulb",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pmbEmUnulb",
+            "expanded_url": "https://www.republicworld.com/india-news/politics/azam-khan-and-shivpal-yadav-skip-samajwadi-partys-mlas-meet-hint-at-possible-unrest-articleshow.html",
+            "display_url": "republicworld.com/india-news/pol\u2026",
+            "indices": [88, 111]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 16
+    },
+    {
+      "created_at": "2022-05-22 10:32:04+00:00",
+      "id_str": "1528322798954897409",
+      "text": "Sunrisers Hyderabad vs Punjab Kings: Dream11 team, head to head record &amp; playing XI news https://t.co/LDt0LJT6dl",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LDt0LJT6dl",
+            "expanded_url": "https://www.republicworld.com/sports-news/ipl-2022/sunrisers-hyderabad-vs-punjab-kings-dream11-team-head-to-head-record-and-playing-xi-news-articleshow.html",
+            "display_url": "republicworld.com/sports-news/ip\u2026",
+            "indices": [93, 116]
+          }
+        ]
+      },
+      "retweet_count": 3,
+      "favorite_count": 3
+    },
+    {
+      "created_at": "2022-05-22 10:00:47+00:00",
+      "id_str": "1528314923365056512",
+      "text": "#BREAKING | Madhya Pradesh CM Shivraj Singh Chouhan slams Rahul Gandhi, calls him a 'failed leader'.\n\nTune in to wa\u2026 https://t.co/PfbsV7SXbj",
+      "entities": {
+        "hashtags": [{ "text": "BREAKING", "indices": [0, 9] }],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PfbsV7SXbj",
+            "expanded_url": "https://twitter.com/i/web/status/1528314923365056512",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [117, 140]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 44
+    },
+    {
+      "created_at": "2022-05-22 09:59:46+00:00",
+      "id_str": "1528314670368571392",
+      "text": "Russia-Ukraine war | Zelenskyy avers he will negotiate with Putin 'if Mariupol troops are not harmed' https://t.co/kEhjIidScw",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kEhjIidScw",
+            "expanded_url": "https://www.republicworld.com/world-news/russia-ukraine-crisis/zelenskyy-avers-he-will-negotiate-with-putin-if-mariupol-troops-are-not-harmed-articleshow.html",
+            "display_url": "republicworld.com/world-news/rus\u2026",
+            "indices": [102, 125]
+          }
+        ]
+      },
+      "retweet_count": 5,
+      "favorite_count": 17
+    },
+    {
+      "created_at": "2022-05-22 09:55:27+00:00",
+      "id_str": "1528313583632883712",
+      "text": "Gyanvapi mosque row: Kashi priest to file plea seeking to offer prayers before Shivling https://t.co/ZJxBJpEXgL",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZJxBJpEXgL",
+            "expanded_url": "https://www.republicworld.com/india-news/general-news/gyanvapi-mosque-row-kashi-priest-to-file-plea-seeking-to-offer-prayers-before-shivling-articleshow.html",
+            "display_url": "republicworld.com/india-news/gen\u2026",
+            "indices": [88, 111]
+          }
+        ]
+      },
+      "retweet_count": 9,
+      "favorite_count": 44
+    },
+    {
+      "created_at": "2022-05-22 09:52:36+00:00",
+      "id_str": "1528312866486509571",
+      "text": "China imposes lockdown in several parts of Beijing as COVID-19 transmission continues https://t.co/uTkLDrjHhQ",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uTkLDrjHhQ",
+            "expanded_url": "https://www.republicworld.com/world-news/china/china-imposes-lockdown-in-several-parts-of-beijing-as-covid-19-transmission-continues-articleshow.html",
+            "display_url": "republicworld.com/world-news/chi\u2026",
+            "indices": [86, 109]
+          }
+        ]
+      },
+      "retweet_count": 6,
+      "favorite_count": 20
+    }
+  ]
+}
